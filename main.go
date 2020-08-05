@@ -45,14 +45,14 @@ func returnAllPharmacies(w http.ResponseWriter, r *http.Request) {
 
 	json.Unmarshal(byteValue, &pharmacies)
 
-	for i := 0; i < len(pharmacies.Pharmacies); i++ {
-		fmt.Println("Name: " + pharmacies.Pharmacies[i].Name)
-		fmt.Println("AddressLine1: " + pharmacies.Pharmacies[i].AddressLine1)
-		fmt.Println("AddressLine2: " + pharmacies.Pharmacies[i].AddressLine2)
-		fmt.Println("City: " + pharmacies.Pharmacies[i].City)
-		fmt.Println("Postcode: " + pharmacies.Pharmacies[i].Postcode)
-		fmt.Println("Phone: " + pharmacies.Pharmacies[i].Phone)
-	}
+	// for i := 0; i < len(pharmacies.Pharmacies); i++ {
+	// 	fmt.Println("Name: " + pharmacies.Pharmacies[i].Name)
+	// 	fmt.Println("AddressLine1: " + pharmacies.Pharmacies[i].AddressLine1)
+	// 	fmt.Println("AddressLine2: " + pharmacies.Pharmacies[i].AddressLine2)
+	// 	fmt.Println("City: " + pharmacies.Pharmacies[i].City)
+	// 	fmt.Println("Postcode: " + pharmacies.Pharmacies[i].Postcode)
+	// 	fmt.Println("Phone: " + pharmacies.Pharmacies[i].Phone)
+	// }
 
 	json.NewEncoder(w).Encode(pharmacies)
 

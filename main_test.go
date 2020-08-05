@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func TestReturnAllPharmacies(t *testing.T) {
+func TestReturnAllPharmaciesHasStatusCodeOk(t *testing.T) {
 	req, err := http.NewRequest("GET", "/pharmacies", nil)
 
 	if err != nil {
@@ -22,11 +22,18 @@ func TestReturnAllPharmacies(t *testing.T) {
 		t.Errorf("handler returned wrong status code: got %v want %v",
 			status, http.StatusOK)
 	}
+}
 
-	expected := `{"alive": true}`
-	if rr.Body.String() != expected {
-		t.Errorf("handler returned unexpected body: got %v want %v",
-			rr.Body.String(), expected)
+func TestReturnAllPharmaciesFiltersByManchesterPostCodes(t *testing.T) {
+	req, err := http.NewRequest("GET", "/pharmacies", nil)
+
+	if err != nil {
+		t.Fatal(err)
 	}
+
+	rr := httptest.NewRecorder()
+	handler := http.HandlerFunc(returnAllPharmacies)
+
+	handler.ServeHTTP(rr, req)
 
 }
