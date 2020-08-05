@@ -53,6 +53,10 @@ func returnAllPharmacies(w http.ResponseWriter, r *http.Request) {
 		fmt.Println("Postcode: " + pharmacies.Pharmacies[i].Postcode)
 		fmt.Println("Phone: " + pharmacies.Pharmacies[i].Phone)
 	}
+
+	json.NewEncoder(w).Encode(pharmacies)
+
+	w.WriteHeader(http.StatusOK)
 }
 
 func handleRequests() {
