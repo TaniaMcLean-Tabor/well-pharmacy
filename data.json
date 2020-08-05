@@ -1,0 +1,4853 @@
+{
+    "data": [
+      {
+        "name": "CHATHAM MEDICAL CENTRE",
+        "addressLine1": "DOCK ROAD",
+        "addressLine2": "",
+        "city": "",
+        "postcode": "ME4 4UG",
+        "phone": ""
+      },
+      {
+        "name": "MAIDSTONE MEDICAL CENTRE",
+        "addressLine1": "INVICTA PARK",
+        "addressLine2": "SANDLING ROAD",
+        "city": "",
+        "postcode": "ME14 2NA",
+        "phone": ""
+      },
+      {
+        "name": "GREENSAND SURGERY (AMPTHILL)",
+        "addressLine1": "GREENSAND SURGERY",
+        "addressLine2": "THE HEALTH CTR, OLIVER ST",
+        "city": "AMPTHILL",
+        "postcode": "MK45 2SB",
+        "phone": "01525 631390"
+      },
+      {
+        "name": "HARROLD MEDICAL PRACTICE",
+        "addressLine1": "HARROLD MEDICAL PRACTICE",
+        "addressLine2": "PEACH'S CLOSE, HARROLD",
+        "city": "BEDFORD",
+        "postcode": "MK43 7DX",
+        "phone": "01234 720225"
+      },
+      {
+        "name": "GOLDINGTON MEDICAL PRACTICE",
+        "addressLine1": "2 GOLDINGTON ROAD",
+        "addressLine2": "BEDFORD",
+        "city": "BEDFORDSHIRE",
+        "postcode": "MK40 3NG",
+        "phone": "01234 351341"
+      },
+      {
+        "name": "FLITWICK SURGERY",
+        "addressLine1": "HIGHLANDS",
+        "addressLine2": "FLITWICK",
+        "city": "BEDFORDSHIRE",
+        "postcode": "MK45 1DW",
+        "phone": "01525 715300"
+      },
+      {
+        "name": "PEMBERLEY SURGERY",
+        "addressLine1": "PEMBERLEY SURGERY",
+        "addressLine2": "32 PEMBERLEY AVENUE",
+        "city": "BEDFORD",
+        "postcode": "MK40 2LA",
+        "phone": "01234 351051"
+      },
+      {
+        "name": "LONDON ROAD HEALTH CENTRE",
+        "addressLine1": "THE HEALTH CENTRE",
+        "addressLine2": "84-86 LONDON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 0NT",
+        "phone": "01234 266851"
+      },
+      {
+        "name": "LANSDOWNE ROAD SURGERY",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "6 LANSDOWNE ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2BU",
+        "phone": "01234 270170"
+      },
+      {
+        "name": "QUEENS PARK HEALTH CENTRE",
+        "addressLine1": "QUEENS PARK HEALTH CENTRE",
+        "addressLine2": "23C CARLISLE RD,QUEENS PK",
+        "city": "BEDFORD",
+        "postcode": "MK40 4HR",
+        "phone": "01234 351661"
+      },
+      {
+        "name": "CATER STREET SURGERY",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "1 CATER STREET, KEMPSTON",
+        "city": "BEDFORD",
+        "postcode": "MK42 8DR",
+        "phone": "01234 849090"
+      },
+      {
+        "name": "SHARNBROOK SURGERY",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "TEMPLARS WAY",
+        "city": "SHARNBROOK",
+        "postcode": "MK44 1PZ",
+        "phone": "01234 781392"
+      },
+      {
+        "name": "PUTNOE MEDICAL CENTRE PARTNERSHIP",
+        "addressLine1": "PUTNOE MEDICAL PRACTICE",
+        "addressLine2": "93 QUEENS DRIVE, PUTNOE",
+        "city": "BEDFORD",
+        "postcode": "MK41 9JE",
+        "phone": "01234 319992"
+      },
+      {
+        "name": "CAULDWELL MEDICAL CENTRE",
+        "addressLine1": "BEDFORD HOSPITAL",
+        "addressLine2": "KEMPSTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 9DJ",
+        "phone": "01234 673710"
+      },
+      {
+        "name": "GREAT BARFORD SURGERY",
+        "addressLine1": "26 SILVER STREET",
+        "addressLine2": "GREAT BARFORD",
+        "city": "BEDFORDSHIRE",
+        "postcode": "MK44 3HX",
+        "phone": "01234 870325"
+      },
+      {
+        "name": "DE PARYS MEDICAL CENTRE",
+        "addressLine1": "DE PARYS MEDICAL CENTRE",
+        "addressLine2": "23 DE PARYS AVENUE",
+        "city": "BEDFORD",
+        "postcode": "MK40 2TX",
+        "phone": "01234 350022"
+      },
+      {
+        "name": "KING STREET SURGERY",
+        "addressLine1": "273 BEDFORD ROAD",
+        "addressLine2": "KEMPSTON",
+        "city": "BEDFORD",
+        "postcode": "MK42 8QD",
+        "phone": "01234 852222"
+      },
+      {
+        "name": "CRANFIELD SURGERY",
+        "addressLine1": "CRANFIELD SURGERY",
+        "addressLine2": "137 HIGH ST,CRANFIELD",
+        "city": "BEDFORD",
+        "postcode": "MK43 0HZ",
+        "phone": "01234 750234"
+      },
+      {
+        "name": "DR HUGHES & PARTNERS",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "HEXTON ROAD",
+        "city": "BARTON-LE-CLAY",
+        "postcode": "MK45 4TA",
+        "phone": "01582 528701"
+      },
+      {
+        "name": "GOLDINGTON AVENUE SURGERY",
+        "addressLine1": "85 GOLDINGTON AVENUE",
+        "addressLine2": "BEDFORD",
+        "city": "BEDFORDSHIRE",
+        "postcode": "MK40 3DB",
+        "phone": "01234 349531"
+      },
+      {
+        "name": "PRIORY MEDICAL CENTRE",
+        "addressLine1": "PRIORY MEDICAL PRACTICE",
+        "addressLine2": "48 THE GLEBE",
+        "city": "CLAPHAM",
+        "postcode": "MK41 6GA",
+        "phone": "01234 262040"
+      },
+      {
+        "name": "ASPLANDS MEDICAL CENTRE",
+        "addressLine1": "ASPLANDS MEDICAL CENTRE",
+        "addressLine2": "WOOD STREET, WOBURN SANDS",
+        "city": "MILTON KEYNES",
+        "postcode": "MK17 8QP",
+        "phone": "01908 582069"
+      },
+      {
+        "name": "ST. JOHN'S STREET SURGERY",
+        "addressLine1": "ST JOHN'S SURGERY",
+        "addressLine2": "16 ST JOHN'S ST, KEMPSTON",
+        "city": "BEDFORD",
+        "postcode": "MK42 8EP",
+        "phone": "01234 851323"
+      },
+      {
+        "name": "LINDEN ROAD SURGERY",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "13 LINDEN ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2DQ",
+        "phone": "01234 273272"
+      },
+      {
+        "name": "CLAPHAM ROAD SURGERY",
+        "addressLine1": "CLAPHAM ROAD SURGERY",
+        "addressLine2": "46-48 CLAPHAM ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK41 7PW",
+        "phone": "01234 357143"
+      },
+      {
+        "name": "HOUGHTON CLOSE SURGERY",
+        "addressLine1": "HOUGHTON CLOSE SURGERY",
+        "addressLine2": "1 HOUGHTON CLOSE",
+        "city": "AMPTHILL",
+        "postcode": "MK45 2TG",
+        "phone": "01525 300898"
+      },
+      {
+        "name": "OLIVER STREET SURGERY",
+        "addressLine1": "THE HEALTH CENTRE",
+        "addressLine2": "OLIVER STREET, AMPTHILL",
+        "city": "BEDFORD",
+        "postcode": "MK45 2SB",
+        "phone": "01525 631395"
+      },
+      {
+        "name": "ROTHSAY SURGERY",
+        "addressLine1": "ROTHSAY SURGERY",
+        "addressLine2": "14 ROTHSAY PLACE",
+        "city": "BEDFORD",
+        "postcode": "MK40 3PX",
+        "phone": "01234 271800"
+      },
+      {
+        "name": "ASHBURNHAM ROAD SURGERY",
+        "addressLine1": "8 ASHBURNHAM ROAD",
+        "addressLine2": "",
+        "city": "BEDFORD",
+        "postcode": "MK40 1DS",
+        "phone": "01234 358411"
+      },
+      {
+        "name": "PHOENIX PRIMARY CARE LTD",
+        "addressLine1": "THE VICTORIA RD MED PRACT",
+        "addressLine2": "10 VICTORIA ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 9JS",
+        "phone": "01234 353966"
+      },
+      {
+        "name": "CROSS LANE MEDICAL PRACTICE",
+        "addressLine1": "BANK STREET",
+        "addressLine2": "",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 8PR",
+        "phone": "01795 562004"
+      },
+      {
+        "name": "SUNLIGHT CENTRE SURGERY",
+        "addressLine1": "THE SUNLIGHT CENTRE",
+        "addressLine2": "105 RICHMOND ROAD",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 1LX",
+        "phone": "01634 283847"
+      },
+      {
+        "name": "WOODLANDS FAMILY PRACTICE",
+        "addressLine1": "WOODLANDS FAMILY PRACTICE",
+        "addressLine2": "GILLINGHAM MC WOODLANDSRD",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 2BU",
+        "phone": "01634 854431"
+      },
+      {
+        "name": "ALBION PLACE MEDICAL PRACTICE",
+        "addressLine1": "ALBION PLACE MEDICAL CTR",
+        "addressLine2": "23-29 ALBION PLACE",
+        "city": "MAIDSTONE",
+        "postcode": "ME14 5DY",
+        "phone": "01622 235613"
+      },
+      {
+        "name": "SHEERNESS HEALTH CENTRE",
+        "addressLine1": "SHEERNESS HEALTH CENTRE",
+        "addressLine2": "250-262 HIGH STREET",
+        "city": "SHEERNESS",
+        "postcode": "ME12 1UP",
+        "phone": "01795 580909"
+      },
+      {
+        "name": "STOCKETT LANE SURGERY",
+        "addressLine1": "STOCKETT LANE SURGERY",
+        "addressLine2": "3 STOCKETT LANE, COXHEATH",
+        "city": "MAIDSTONE",
+        "postcode": "ME17 4PS",
+        "phone": "01622 745585"
+      },
+      {
+        "name": "GROVEHURST SURGERY",
+        "addressLine1": "GROVEHURST SURGERY",
+        "addressLine2": "GROVEHURST RD, KEMSLEY",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 2ST",
+        "phone": "01795 430444"
+      },
+      {
+        "name": "FAVERSHAM MEDICAL PRACTICE",
+        "addressLine1": "THE FAVERSHAM HEALTH CTR",
+        "addressLine2": "BANK STREET",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 8QR",
+        "phone": "01795 562011"
+      },
+      {
+        "name": "MARSHAM STREET SURGERY",
+        "addressLine1": "1 MARSHAM STREET",
+        "addressLine2": "MAIDSTONE",
+        "city": "KENT",
+        "postcode": "ME14 1EW",
+        "phone": "01622 752615"
+      },
+      {
+        "name": "BOWER MOUNT MEDICAL PRACTICE",
+        "addressLine1": "1 BOWER MOUNT ROAD",
+        "addressLine2": "MAIDSTONE",
+        "city": "KENT",
+        "postcode": "ME16 8AX",
+        "phone": "01622 756721"
+      },
+      {
+        "name": "THE CHESTNUTS SURGERY",
+        "addressLine1": "THE CHESTNUTS SURGERY",
+        "addressLine2": "70 EAST STREET",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 4RU",
+        "phone": "01795 470794"
+      },
+      {
+        "name": "NEWTON PLACE SURGERY",
+        "addressLine1": "NEWTON PLACE SURGERY",
+        "addressLine2": "NEWTON ROAD",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 8FH",
+        "phone": "01795 530777"
+      },
+      {
+        "name": "CITY WAY SURGERY",
+        "addressLine1": "CITY WAY SURGERY",
+        "addressLine2": "67 CITY WAY",
+        "city": "ROCHESTER",
+        "postcode": "ME1 2AY",
+        "phone": "01634 843351"
+      },
+      {
+        "name": "ST GEORGES MEDICAL CENTRE",
+        "addressLine1": "ST GEORGES MEDICAL CENTRE",
+        "addressLine2": "55 ST GEORGES AVENUE",
+        "city": "SHEERNESS",
+        "postcode": "ME12 1QU",
+        "phone": "01795 582880"
+      },
+      {
+        "name": "AYLESFORD MEDICAL CENTRE",
+        "addressLine1": "THE NEW AYLESFORD SURGERY",
+        "addressLine2": "ADMIRAL MOORE DRIVE",
+        "city": "R.B.L.V., AYLESFORD",
+        "postcode": "ME20 7SE",
+        "phone": "01622 885880"
+      },
+      {
+        "name": "DR SINHA GC",
+        "addressLine1": "GROVE PARK SURGERY",
+        "addressLine2": "116 SUTTON ROAD",
+        "city": "MAIDSTONE",
+        "postcode": "ME15 9AP",
+        "phone": "01622 753211"
+      },
+      {
+        "name": "BEARSTED",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "YEOMAN LANE, BEARSTED",
+        "city": "MAIDSTONE",
+        "postcode": "ME14 4DS",
+        "phone": "01622 737326"
+      },
+      {
+        "name": "MOTE",
+        "addressLine1": "THE MOTE MEDICAL PRACTICE",
+        "addressLine2": "ST.SAVIOURS ROAD",
+        "city": "MAIDSTONE",
+        "postcode": "ME15 9FL",
+        "phone": "01622 756888"
+      },
+      {
+        "name": "THE ELMS MEDICAL CENTRE",
+        "addressLine1": "THE ELMS MEDICAL CENTRE",
+        "addressLine2": "TILLEY CLOSE,MAIN RD,HOO",
+        "city": "ROCHESTER",
+        "postcode": "ME3 9AE",
+        "phone": "01634 250142"
+      },
+      {
+        "name": "THORNHILLS MEDICAL PRACTICE",
+        "addressLine1": "THORNHILLS MED PRACT",
+        "addressLine2": "LARKFIELD HC, MARTIN SQ",
+        "city": "AYLESFORD",
+        "postcode": "ME20 6QJ",
+        "phone": "01732 849980"
+      },
+      {
+        "name": "SNODLAND MEDICAL PRACTICE",
+        "addressLine1": "SNODLAND MEDICAL PRACTICE",
+        "addressLine2": "CATTS ALLEY",
+        "city": "SNODLAND",
+        "postcode": "ME6 5SN",
+        "phone": "01634 240296"
+      },
+      {
+        "name": "BREWER STREET",
+        "addressLine1": "4 BREWER STREET",
+        "addressLine2": "MAIDSTONE",
+        "city": "KENT",
+        "postcode": "ME14 1RU",
+        "phone": "01622 755401"
+      },
+      {
+        "name": "LEN VALLEY PRACTICE",
+        "addressLine1": "LEN VALLEY PRACTICE",
+        "addressLine2": "GROOM WAY,LENHAM",
+        "city": "MAIDSTONE",
+        "postcode": "ME17 2QF",
+        "phone": "01622 858341"
+      },
+      {
+        "name": "THORNDIKE SURGERY",
+        "addressLine1": "THE THORNDIKE CENTRE",
+        "addressLine2": "LONGLEY ROAD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 2TH",
+        "phone": "01634 817217"
+      },
+      {
+        "name": "BLACKTHORN",
+        "addressLine1": "BLACKTHORN MEDICAL CENTRE",
+        "addressLine2": "ST ANDREWS ROAD, BARMING",
+        "city": "MAIDSTONE",
+        "postcode": "ME16 9AN",
+        "phone": "01622 726277"
+      },
+      {
+        "name": "THE COLLEGE PRACTICE",
+        "addressLine1": "THE COLLEGE PRACTICE",
+        "addressLine2": "50-52 COLLEGE ROAD",
+        "city": "MAIDSTONE",
+        "postcode": "ME15 6SB",
+        "phone": "01622 752345"
+      },
+      {
+        "name": "HIGHCLIFFE MEDICAL PRACT.",
+        "addressLine1": "HIGHCLIFFE MEDICAL PRACT.",
+        "addressLine2": "HIGHAM SURGERY",
+        "city": "HERMITAGE ROAD",
+        "postcode": "ME3 7DB",
+        "phone": "01474 823841"
+      },
+      {
+        "name": "ALLINGTON CLINIC",
+        "addressLine1": "26 TICHBORNE CLOSE",
+        "addressLine2": "ALLINGTON",
+        "city": "MAIDSTONE",
+        "postcode": "ME16 0RY",
+        "phone": "01622 679020"
+      },
+      {
+        "name": "RIVERSIDE MEDICAL PRACTICE",
+        "addressLine1": "RIVERSIDE MEDICAL PRAC",
+        "addressLine2": "FERRY ROAD, HALLING",
+        "city": "ROCHESTER",
+        "postcode": "ME2 1NP",
+        "phone": "01634 240238"
+      },
+      {
+        "name": "KING GEORGE ROAD SURGERY",
+        "addressLine1": "52A KING GEORGE ROAD",
+        "addressLine2": "WALDERSLADE",
+        "city": "CHATHAM",
+        "postcode": "ME5 0TT",
+        "phone": "0844 4773376"
+      },
+      {
+        "name": "THE RAILSIDE SURGERY",
+        "addressLine1": "7 RAILWAY STREET",
+        "addressLine2": "GILLINGHAM",
+        "city": "KENT",
+        "postcode": "ME7 1XG",
+        "phone": "01634 851193"
+      },
+      {
+        "name": "STONECROSS AND WEST DRIVE SURGERY",
+        "addressLine1": "STONECROSS & WEST DR SURG",
+        "addressLine2": "25 STREET END ROAD",
+        "city": "CHATHAM",
+        "postcode": "ME5 0AA",
+        "phone": "01634 842334"
+      },
+      {
+        "name": "BALMORAL GARDENS",
+        "addressLine1": "BALMORAL GARDENS",
+        "addressLine2": "HEALTHY LIVING CENTRE",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 4PN",
+        "phone": "01634 334937"
+      },
+      {
+        "name": "THE GLEBE FAMILY PRACTICE",
+        "addressLine1": "VICARAGE ROAD",
+        "addressLine2": "GILLINGHAM",
+        "city": "KENT",
+        "postcode": "ME7 5UA",
+        "phone": "01634 576347"
+      },
+      {
+        "name": "ST.MARY'S MEDICAL CENTRE",
+        "addressLine1": "ST. MARY'S MEDICAL CENTRE",
+        "addressLine2": "VICARAGE ROAD",
+        "city": "STROOD, ROCHESTER",
+        "postcode": "ME2 4DG",
+        "phone": "01634 291266"
+      },
+      {
+        "name": "WEST MALLING GROUP PRACTICE",
+        "addressLine1": "WEST MALLING GROUP PRAC",
+        "addressLine2": "116 HIGH STREET",
+        "city": "WEST MALLING",
+        "postcode": "ME19 6NE",
+        "phone": "01732 870212"
+      },
+      {
+        "name": "MAIDSTONE RD CHATHAM SURGERY",
+        "addressLine1": "262 MAIDSTONE ROAD",
+        "addressLine2": "CHATHAM",
+        "city": "KENT",
+        "postcode": "ME4 6JL",
+        "phone": "01634 842093"
+      },
+      {
+        "name": "YALDING",
+        "addressLine1": "YALDING SURGERY",
+        "addressLine2": "BURGESS BANK,BENOVER ROAD",
+        "city": "MAIDSTONE",
+        "postcode": "ME18 6ES",
+        "phone": "01622 814380"
+      },
+      {
+        "name": "THAMES AVE SURGERY",
+        "addressLine1": "2 THAMES AVENUE",
+        "addressLine2": "RAINHAM",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 9BW",
+        "phone": "01634 360486"
+      },
+      {
+        "name": "REACH HEALTHCARE",
+        "addressLine1": "WALDERSLADE VIL SURG",
+        "addressLine2": "62A ROBIN HOOD LANE",
+        "city": "WALDERSLADE",
+        "postcode": "ME5 9LD",
+        "phone": "01634 687200"
+      },
+      {
+        "name": "RAINHAM HEALTHY LIVING CENTRE",
+        "addressLine1": "RAINHAM HEALTHY LIVING",
+        "addressLine2": "RED SUITE,103-107 HIGH ST",
+        "city": "RAINHAM",
+        "postcode": "ME8 8AA",
+        "phone": "01634 337620"
+      },
+      {
+        "name": "THE VINE MEDICAL CENTRE",
+        "addressLine1": "THE VINE MEDICAL CENTRE",
+        "addressLine2": "13 TONBRIDGE ROAD",
+        "city": "MAIDSTONE",
+        "postcode": "ME16 8RL",
+        "phone": "01622 754898"
+      },
+      {
+        "name": "DR H BEERSTECHER PRACTICE",
+        "addressLine1": "CANTERBURY ROAD SURGERY",
+        "addressLine2": "111 CANTERBURY ROAD",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 4JA",
+        "phone": "01795 423300"
+      },
+      {
+        "name": "BOUGHTON MEDICAL CENTRE",
+        "addressLine1": "BOUGHTON MEDICAL CENTRE",
+        "addressLine2": "60 THE STREET, BOUGHTON",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 9AS",
+        "phone": "01227 751217"
+      },
+      {
+        "name": "MAIDSTONE RD RAINHAM SURGERY",
+        "addressLine1": "53B MAIDSTONE ROAD",
+        "addressLine2": "RAINHAM",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0DP",
+        "phone": "01634 231423"
+      },
+      {
+        "name": "WALTHAM ROAD MEDICAL CENTRE",
+        "addressLine1": "THE MEDICAL CENTRE",
+        "addressLine2": "4A WALTHAM ROAD",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 6XQ",
+        "phone": "01634 231074"
+      },
+      {
+        "name": "GUN LANE MEDICAL CENTRE",
+        "addressLine1": "GUN LANE MEDICAL CENTRE",
+        "addressLine2": "GUN LANE, STROOD",
+        "city": "ROCHESTER",
+        "postcode": "ME2 4UW",
+        "phone": "01634 290644"
+      },
+      {
+        "name": "WATERINGBURY",
+        "addressLine1": "14 PELICAN COURT",
+        "addressLine2": "WATERINGBURY",
+        "city": "MAIDSTONE",
+        "postcode": "ME18 5SS",
+        "phone": "01622 814466"
+      },
+      {
+        "name": "COURT VIEW SURGERY",
+        "addressLine1": "COURT VIEW SURGERY",
+        "addressLine2": "2A DARNLEY ROAD, STROOD",
+        "city": "ROCHESTER",
+        "postcode": "ME2 2HA",
+        "phone": "01634 290333"
+      },
+      {
+        "name": "WIGMORE MEDICAL CENTRE",
+        "addressLine1": "114 WOODSIDE ROAD",
+        "addressLine2": "WIGMORE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PW",
+        "phone": "01634 231752"
+      },
+      {
+        "name": "SUTTON VALENCE",
+        "addressLine1": "SUTTON VALENCE SURGERY",
+        "addressLine2": "SOUTH LANE",
+        "city": "SUTTON VALENCE",
+        "postcode": "ME17 3BD",
+        "phone": "01622 842212"
+      },
+      {
+        "name": "DR O S SINGH & PARTNER",
+        "addressLine1": "LORDSWOOD COM HEAL LIV CT",
+        "addressLine2": "SULTAN ROAD,LORDSWOOD",
+        "city": "CHATHAM",
+        "postcode": "ME5 8TJ",
+        "phone": "01634 337443"
+      },
+      {
+        "name": "LONDON ROAD MEDICAL CENTRE",
+        "addressLine1": "THE MEDICAL CENTRE",
+        "addressLine2": "32 LONDON ROAD",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 1ND",
+        "phone": "01795 472100"
+      },
+      {
+        "name": "ST.WERBURGH MED.PRACTICE",
+        "addressLine1": "ST.WERBURGH MED.PRACTICE",
+        "addressLine2": "98 BELLS LANE",
+        "city": "HOO ST. WERBURGH",
+        "postcode": "ME3 9HU",
+        "phone": "01634 250523"
+      },
+      {
+        "name": "PHOENIX MEDICAL PRACTICE",
+        "addressLine1": "PHOENIX MED PRACTICE",
+        "addressLine2": "33 BELL LANE,BURHAM",
+        "city": "NR.ROCHESTER",
+        "postcode": "ME1 3SX",
+        "phone": "01634 867982"
+      },
+      {
+        "name": "EASTCOURT LANE SURGERY",
+        "addressLine1": "52 EASTCOURT LANE",
+        "addressLine2": "TWYDALL",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 6EY",
+        "phone": "01634 232144"
+      },
+      {
+        "name": "NORTHUMBERLAND COURT",
+        "addressLine1": "THE MEDICAL CENTRE",
+        "addressLine2": "10A NORTHUMBERLAND COURT",
+        "city": "SHEPWAY",
+        "postcode": "ME15 7LN",
+        "phone": "01622 753920"
+      },
+      {
+        "name": "THE SURGERY RAILWAY STREET",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "19 RAILWAY STREET",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 1XF",
+        "phone": "01634 853667"
+      },
+      {
+        "name": "BRYANT STREET MEDICAL PRACTICE",
+        "addressLine1": "BRYANT STREET MED PRAC",
+        "addressLine2": "29 BRYANT STREET",
+        "city": "CHATHAM",
+        "postcode": "ME4 5QS",
+        "phone": "01634 848911"
+      },
+      {
+        "name": "THE MEADS MEDICAL PRACTICE",
+        "addressLine1": "29 QUARTZ WAY",
+        "addressLine2": "THE MEADS",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 5AA",
+        "phone": "01795 477266"
+      },
+      {
+        "name": "PUMP LANE SURGERY",
+        "addressLine1": "13 PUMP LANE",
+        "addressLine2": "RAINHAM MARK",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 7AA",
+        "phone": "01634 231856"
+      },
+      {
+        "name": "WALLIS AVENUE",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "WALLIS AVENUE,PARKWOOD",
+        "city": "MAIDSTONE",
+        "postcode": "ME15 9JJ",
+        "phone": "01622 686963"
+      },
+      {
+        "name": "WYVILL CLOSE SURGERY",
+        "addressLine1": "1 WYVILL CLOSE",
+        "addressLine2": "PARKWOOD,RAINHAM",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 9NE",
+        "phone": "01634 230461"
+      },
+      {
+        "name": "CASTLE MEDICAL PRACTICE",
+        "addressLine1": "HEALTH LIVING CENTRE",
+        "addressLine2": "DELCE ROAD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 2EL",
+        "phone": "01634 334203"
+      },
+      {
+        "name": "TUNBURY AVENUE SURGERY",
+        "addressLine1": "TUNBURY AVENUE SURGERY",
+        "addressLine2": "16 TUNBURY AVENUE",
+        "city": "WALDERSLADE",
+        "postcode": "ME5 9EH",
+        "phone": "01634 668814"
+      },
+      {
+        "name": "DR SK MAHTHA PRACTICE",
+        "addressLine1": "31 LONDON ROAD",
+        "addressLine2": "SITTINGBOURNE",
+        "city": "KENT",
+        "postcode": "ME10 1NQ",
+        "phone": "01795 422269"
+      },
+      {
+        "name": "TEYNHAM MEDICAL CENTRE",
+        "addressLine1": "TEYNHAM MEDICAL CENTRE",
+        "addressLine2": "72 STATION ROAD, TEYNHAM",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME9 9SN",
+        "phone": "01795 521948"
+      },
+      {
+        "name": "ROCHESTER HEALTH CENTRE SURGERY E",
+        "addressLine1": "ROCHESTER COMMUNITY",
+        "addressLine2": "HEALTHY LIV CTR, DELCE RD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 2EL",
+        "phone": "01634 334201"
+      },
+      {
+        "name": "IWADE HEALTH CENTRE",
+        "addressLine1": "IWADE HEALTH CENTRE",
+        "addressLine2": "1 MONINS ROAD, IWADE",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME9 8TY",
+        "phone": "01795 413100"
+      },
+      {
+        "name": "APEX MEDICAL CENTRE",
+        "addressLine1": "APEX MEDICAL PRACTICE",
+        "addressLine2": "GUN LANE, STROOD",
+        "city": "ROCHESTER",
+        "postcode": "ME2 4UW",
+        "phone": "01634 720220"
+      },
+      {
+        "name": "THE OM MEDICAL CENTRE",
+        "addressLine1": "THE OM MEDICAL CENTRE",
+        "addressLine2": "WOOD STREET",
+        "city": "SHEERNESS,ISLE OF SHEPPEY",
+        "postcode": "ME12 1UA",
+        "phone": "01795 580402"
+      },
+      {
+        "name": "MINSTER MEDICAL CENTRE",
+        "addressLine1": "MINSTER MEDICAL CTR.",
+        "addressLine2": "SHEPPEY COMMUNITY HOSP",
+        "city": "PLOVER ROAD, MINSTER",
+        "postcode": "ME12 3LT",
+        "phone": "01795 877714"
+      },
+      {
+        "name": "DR S J WITTS PRACTICE",
+        "addressLine1": "SHEERNESS HEALTH CENTRE",
+        "addressLine2": "250-262 HIGH STREET",
+        "city": "SHEERNESS",
+        "postcode": "ME12 1UP",
+        "phone": "01795 585255"
+      },
+      {
+        "name": "LANGLEY",
+        "addressLine1": "THE ORCHARD SURGERY",
+        "addressLine2": "HORSESHOES LANE, LANGLEY",
+        "city": "MAIDSTONE",
+        "postcode": "ME17 3JY",
+        "phone": "01622 863030"
+      },
+      {
+        "name": "MEMORIAL MEDICAL CENTRE",
+        "addressLine1": "MEMORIAL MEDICAL CENTRE",
+        "addressLine2": "BELL ROAD",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 4XX",
+        "phone": "01795 477764"
+      },
+      {
+        "name": "THE CHURCHILL CLINIC",
+        "addressLine1": "THE CHURCHILL CLINIC",
+        "addressLine2": "94 CHURCHILL AVENUE",
+        "city": "CHATHAM",
+        "postcode": "ME5 0DL",
+        "phone": "01634 842397"
+      },
+      {
+        "name": "DR RB KUMAR PRACTICE",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "LONDON ROAD, TEYNHAM",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME9 9QL",
+        "phone": "01795 521205"
+      },
+      {
+        "name": "MILTON REGIS SURGERY",
+        "addressLine1": "95 HIGH STREET",
+        "addressLine2": "MILTON REGIS",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 2AR",
+        "phone": "01795 426640"
+      },
+      {
+        "name": "THE CHURCH VIEW PRACTICE",
+        "addressLine1": "RAINHAM HTHY LIVING CTR",
+        "addressLine2": "103-107 HIGH STREET",
+        "city": "RAINHAM",
+        "postcode": "ME8 8AA",
+        "phone": "01634 337642"
+      },
+      {
+        "name": "BROMPTON MEDICAL CENTRE",
+        "addressLine1": "BROMPTON MEDICAL CENTRE",
+        "addressLine2": "28A GARDEN ST, BROMPTON",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 5AS",
+        "phone": "01634 845898"
+      },
+      {
+        "name": "MARLOWE PARK MEDICAL CTR.",
+        "addressLine1": "MARLOWE PARK MEDICAL CTR.",
+        "addressLine2": "WELLS ROAD, STROOD",
+        "city": "ROCHESTER",
+        "postcode": "ME2 2PW",
+        "phone": "01634 719692"
+      },
+      {
+        "name": "BORSTAL VILLAGE SURGERY",
+        "addressLine1": "BORSTAL VILLAGE SURGERY",
+        "addressLine2": "25 WOULDHAM ROAD, BORSTAL",
+        "city": "ROCHESTER",
+        "postcode": "ME1 3JY",
+        "phone": "01634 408765"
+      },
+      {
+        "name": "THE BROADWAY SURGERY",
+        "addressLine1": "44 BROADWAY",
+        "addressLine2": "TWYDALL",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 6BD",
+        "phone": "01634 231364"
+      },
+      {
+        "name": "MATRIX MEDICAL PRACTICE",
+        "addressLine1": "10A BEACON HILL",
+        "addressLine2": "LUTON",
+        "city": "CHATHAM",
+        "postcode": "ME5 7JX",
+        "phone": "01634 406607"
+      },
+      {
+        "name": "PARKWOOD FAMILY PRACTICE",
+        "addressLine1": "119 LONG CATLIS ROAD",
+        "addressLine2": "PARKWOOD",
+        "city": "RAINHAM",
+        "postcode": "ME8 9RR",
+        "phone": "01634 269610"
+      },
+      {
+        "name": "MALLING HEALTH BLUE SUITE",
+        "addressLine1": "RAINHAM HEALTHY LIV CTR",
+        "addressLine2": "BLUE SUITE103-107 HIGH ST",
+        "city": "RAINHAM",
+        "postcode": "ME8 8AA",
+        "phone": "01634 337632"
+      },
+      {
+        "name": "LONG CATLIS ROAD SURGERY",
+        "addressLine1": "PARKWOOD HEALTH CENTRE",
+        "addressLine2": "LONG CATLIS ROAD",
+        "city": "RAINHAM",
+        "postcode": "ME8 9PR",
+        "phone": "01634 233491"
+      },
+      {
+        "name": "WALDERSLADE MEDICAL CTR. SURGERY P",
+        "addressLine1": "WALDERSLADE MEDICAL CTR",
+        "addressLine2": "94 CHURCHILL AVENUE",
+        "city": "CHATHAM",
+        "postcode": "ME5 0DL",
+        "phone": "01634 668160"
+      },
+      {
+        "name": "PRINCES PARK MEDICAL CTR",
+        "addressLine1": "PRINCES PARK MEDICAL CTR",
+        "addressLine2": "DOVE CLOSE",
+        "city": "WALDERSLADE",
+        "postcode": "ME5 7TD",
+        "phone": "01634 201272"
+      },
+      {
+        "name": "THE HALFWAY SURGERY",
+        "addressLine1": "THE HALFWAY SURGERY",
+        "addressLine2": "68 NEW ROAD",
+        "city": "CHATHAM",
+        "postcode": "ME4 4QR",
+        "phone": "01634 828665"
+      },
+      {
+        "name": "THE ORCHARD MEDICAL CENTRE",
+        "addressLine1": "THE ORCHARD MEDICAL CTR.",
+        "addressLine2": "146 HEATH ROAD, COXHEATH",
+        "city": "MAIDSTONE",
+        "postcode": "ME17 4PL",
+        "phone": "01622 744994"
+      },
+      {
+        "name": "THE KINGS FAMILY PRACTICE",
+        "addressLine1": "THE KINGS FAMILY PRACTICE",
+        "addressLine2": "30-34 MAGPIE HALL ROAD",
+        "city": "CHATHAM",
+        "postcode": "ME4 5JY",
+        "phone": "01634 810040"
+      },
+      {
+        "name": "LAKE MEDICAL CENTRE",
+        "addressLine1": "53 TODD CRESCENT",
+        "addressLine2": "KEMSLEY",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME12 2TZ",
+        "phone": "01795 424315"
+      },
+      {
+        "name": "UPPER CANTERBURY ST SURGERY",
+        "addressLine1": "511 CANTERBURY STREET",
+        "addressLine2": "GILLINGHAM",
+        "city": "KENT",
+        "postcode": "ME7 5LH",
+        "phone": "01634 573020"
+      },
+      {
+        "name": "NAPIER ROAD SURGERY",
+        "addressLine1": "151 NAPIER ROAD",
+        "addressLine2": "GILLINGHAM",
+        "city": "KENT",
+        "postcode": "ME7 4HH",
+        "phone": "01634 580480"
+      },
+      {
+        "name": "ESPLANADE HEALTHCARE",
+        "addressLine1": "ESPLANADE HEALTHCARE",
+        "addressLine2": "1 THE ESPLANADE",
+        "city": "ROCHESTER",
+        "postcode": "ME1 1QE",
+        "phone": "01634 843142"
+      },
+      {
+        "name": "MALVERN ROAD SURGERY",
+        "addressLine1": "MEDWAY MEDICAL CENTRE",
+        "addressLine2": "90-92 MALVERN ROAD",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 4BB",
+        "phone": "01634 578333"
+      },
+      {
+        "name": "COBTREE",
+        "addressLine1": "COBTREE MEDICAL PRACTICE",
+        "addressLine2": "SOUTHWAYS",
+        "city": "SUTTON VALENCE",
+        "postcode": "ME17 3HT",
+        "phone": "01622 843800"
+      },
+      {
+        "name": "DR S CHANDRAN PRACTICE",
+        "addressLine1": "SHEERNESS HEALTH CENTRE",
+        "addressLine2": "250-262 HIGH STREET",
+        "city": "SHEERNESS",
+        "postcode": "ME12 1UP",
+        "phone": "01795 585001"
+      },
+      {
+        "name": "ALLINGTON PARK",
+        "addressLine1": "ALLINGTON PARK SURGERY",
+        "addressLine2": "1C NEWBURY AVENUE",
+        "city": "ALLINGTON",
+        "postcode": "ME16 0RB",
+        "phone": "01622 683257"
+      },
+      {
+        "name": "SHEPPEY HEALTHY LIVING CENTRE",
+        "addressLine1": "SHEPPEY HLC, ROYAL ROAD",
+        "addressLine2": "OFF THE BROADWAY",
+        "city": "SHEERNESS",
+        "postcode": "ME12 1HH",
+        "phone": "01795 585105"
+      },
+      {
+        "name": "MEDWAY ON CALL CARE OOH",
+        "addressLine1": "MCH HOUSE, 21 BAILEY DR",
+        "addressLine2": "GILLINGHAM BUSINESS PARK",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 792071"
+      },
+      {
+        "name": "WAYFIELD ROAD SURGERY",
+        "addressLine1": "183B WAYFIELD ROAD",
+        "addressLine2": "CHATHAM",
+        "city": "KENT",
+        "postcode": "ME5 0HD",
+        "phone": "01634 845613"
+      },
+      {
+        "name": "WOLVERTON HEALTH CENTRE",
+        "addressLine1": "THE HEALTH CENTRE",
+        "addressLine2": "GLOUCESTER ROAD,WOLVERTON",
+        "city": "MILTON KEYNES",
+        "postcode": "MK12 5DF",
+        "phone": "01908 222954"
+      },
+      {
+        "name": "THE SWAN PRACTICE",
+        "addressLine1": "THE SWAN PRACTICE",
+        "addressLine2": "HIGH STREET",
+        "city": "BUCKINGHAM",
+        "postcode": "MK18 1NU",
+        "phone": "01280 818600"
+      },
+      {
+        "name": "STONY MEDICAL CENTRE",
+        "addressLine1": "STONY MEDICAL CENTRE",
+        "addressLine2": "MARKET SQ,STONY STRATFORD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK11 1YA",
+        "phone": "01908 260382"
+      },
+      {
+        "name": "THE RED HOUSE SURGERY",
+        "addressLine1": "THE RED HOUSE SURGERY",
+        "addressLine2": "241 QUEENSWAY, BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK2 2EH",
+        "phone": "01908 375111"
+      },
+      {
+        "name": "PARKSIDE MEDICAL CENTRE",
+        "addressLine1": "PARKSIDE MEDICAL CENTRE",
+        "addressLine2": "WHALLEY DRIVE,BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK3 6EN",
+        "phone": "01908 375341"
+      },
+      {
+        "name": "NEWPORT PAGNELL MED.CTR.",
+        "addressLine1": "NEWPORT PAGNELL MED.CTR.",
+        "addressLine2": "QUEENS AVENUE",
+        "city": "NEWPORT PAGNELL",
+        "postcode": "MK16 8QT",
+        "phone": "01908 611767"
+      },
+      {
+        "name": "SOVEREIGN MEDICAL CENTRE",
+        "addressLine1": "SOVEREIGN MEDICAL CENTRE",
+        "addressLine2": "SOVEREIGN DR, PENNYLAND",
+        "city": "MILTON KEYNES",
+        "postcode": "MK15 8AJ",
+        "phone": "01908 209420"
+      },
+      {
+        "name": "WHADDON MEDICAL CENTRE",
+        "addressLine1": "WHADDON MEDICAL CENTRE",
+        "addressLine2": "25 WITHAM COURT,BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK3 7QU",
+        "phone": "01908 373058"
+      },
+      {
+        "name": "PURBECK HEALTH CENTRE",
+        "addressLine1": "PURBECK HEALTH CENTRE",
+        "addressLine2": "PURBECK, STANTONBURY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK14 6BL",
+        "phone": "01908 318989"
+      },
+      {
+        "name": "OAKRIDGE PARK MEDICAL CENTRE",
+        "addressLine1": "OAKRIDGE PARK MEDICAL CTR",
+        "addressLine2": "30 TEXEL CL,OAKRIDGE PARK",
+        "city": "MILTON KEYNES",
+        "postcode": "MK14 6GL",
+        "phone": "01908 221180"
+      },
+      {
+        "name": "BEDFORD STREET SURGERY",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "4 BEDFORD ST, BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK2 2TX",
+        "phone": "01908 658850"
+      },
+      {
+        "name": "NORDEN HOUSE SURGERY",
+        "addressLine1": "NORDEN HOUSE SURGERY",
+        "addressLine2": "AVENUE ROAD",
+        "city": "WINSLOW",
+        "postcode": "MK18 3DW",
+        "phone": "01296 713434"
+      },
+      {
+        "name": "WATER EATON HEALTH CENTRE",
+        "addressLine1": "WATER EATON HEALTH CENTRE",
+        "addressLine2": "FERN GROVE, BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK2 3HN",
+        "phone": "01908 371318"
+      },
+      {
+        "name": "ASHFIELD MEDICAL CENTRE",
+        "addressLine1": "ASHFIELD M.C, 1 PERRYDOWN",
+        "addressLine2": "WASTEL BEANHILL",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 4NH",
+        "phone": "01908 679111"
+      },
+      {
+        "name": "COBBS GARDEN SURGERY",
+        "addressLine1": "COBBS GARDEN SURGERY",
+        "addressLine2": "WEST STREET",
+        "city": "OLNEY",
+        "postcode": "MK46 5QG",
+        "phone": "01234 490377"
+      },
+      {
+        "name": "WESTFIELD ROAD SURGERY",
+        "addressLine1": "WESTFIELD ROAD SURGERY",
+        "addressLine2": "11 WESTFIELD ROAD",
+        "city": "BLETCHLEY, MILTON KEYNES",
+        "postcode": "MK2 2DJ",
+        "phone": "01908 377103"
+      },
+      {
+        "name": "NEATH HILL HEALTH CENTRE",
+        "addressLine1": "NEATH HILL HEALTH CENTRE",
+        "addressLine2": "1 TOWER CRES, NEATH HILL",
+        "city": "MILTON KEYNES",
+        "postcode": "MK14 6JY",
+        "phone": "01908 200529"
+      },
+      {
+        "name": "DRAYTON ROAD SURGERY",
+        "addressLine1": "DRAYTON ROAD SURGERY",
+        "addressLine2": "20 DRAYTON ROAD,BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK2 3EJ",
+        "phone": "01908 371481"
+      },
+      {
+        "name": "FISHERMEAD MEDICAL CENTRE",
+        "addressLine1": "FISHERMEAD MEDICAL CENTRE",
+        "addressLine2": "FISHERMEAD BOULEVARD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 2LR",
+        "phone": "01908 609240"
+      },
+      {
+        "name": "CENTRAL MILTON KEYNES MEDICAL CENTRE",
+        "addressLine1": "C.M.K MEDICAL CENTRE",
+        "addressLine2": "68 BRADWELL COMMON BLVD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK13 8RN",
+        "phone": "01908 605775"
+      },
+      {
+        "name": "HILLTOPS MEDICAL CENTRE",
+        "addressLine1": "HILLTOPS MEDICAL CENTRE",
+        "addressLine2": "KENSINGTON DR, GREAT HOLM",
+        "city": "MILTON KEYNES",
+        "postcode": "MK8 9HN",
+        "phone": "01908 568446"
+      },
+      {
+        "name": "VERNEY CLOSE SURGERY",
+        "addressLine1": "VERNEY CLOSE FAMILY PRACT",
+        "addressLine2": "VERNEY CLOSE",
+        "city": "BUCKINGHAM",
+        "postcode": "MK18 1JP",
+        "phone": "01280 822777"
+      },
+      {
+        "name": "MASONIC HOUSE SURGERY",
+        "addressLine1": "MASONIC HOUSE SURGERY",
+        "addressLine2": "26 HIGH STREET",
+        "city": "BUCKINGHAM",
+        "postcode": "MK18 1NU",
+        "phone": "01280 816450"
+      },
+      {
+        "name": "KINGFISHER SURGERY",
+        "addressLine1": "KINGFISHER SURGERY",
+        "addressLine2": "ELTHORNE WAY",
+        "city": "NEWPORT PAGNELL",
+        "postcode": "MK16 0JR",
+        "phone": "01908 618265"
+      },
+      {
+        "name": "WATLING VALE MEDICAL CTR.",
+        "addressLine1": "WATLING VALE MEDICAL CTR.",
+        "addressLine2": "BURCHARD CRESCENT",
+        "city": "SHENLEY CHURCH END",
+        "postcode": "MK5 6EY",
+        "phone": "01908 501177"
+      },
+      {
+        "name": "THE GROVE SURGERY",
+        "addressLine1": "THE GROVE SURGERY",
+        "addressLine2": "FARTHING GR, NETHERFIELD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 4NG",
+        "phone": "01908 295700"
+      },
+      {
+        "name": "WALNUT TREE HEALTH CENTRE",
+        "addressLine1": "WALNUT TREE HEALTH CENTRE",
+        "addressLine2": "BLACKBERRY CT,WALNUT TREE",
+        "city": "MILTON KEYNES",
+        "postcode": "MK7 7PB",
+        "phone": "01908 691123"
+      },
+      {
+        "name": "WILLEN VILLAGE SURGERY",
+        "addressLine1": "WILLEN VILLAGE SURGERY",
+        "addressLine2": "BEAUFORT DRIVE",
+        "city": "WILLEN,MILTON KEYNES",
+        "postcode": "MK15 9ET",
+        "phone": "0844 4773025"
+      },
+      {
+        "name": "THE STONEDEAN PRACTICE",
+        "addressLine1": "STONEDEAN PRACTICE",
+        "addressLine2": "MARKET SQ,STONY STRATFORD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK11 1YA",
+        "phone": "01908 261155"
+      },
+      {
+        "name": "BROOK ADVISORY CLINIC",
+        "addressLine1": "BROOK EAST OF ENGLAND",
+        "addressLine2": "624 SOUTH FIFTH STREET",
+        "city": "CENTRAL MILTON KEYNES",
+        "postcode": "MK9 2FX",
+        "phone": "01908 606561"
+      },
+      {
+        "name": "MILTON KEYNES VILLAGE SURG",
+        "addressLine1": "MILTON KEYNES VILL SURG",
+        "addressLine2": "GRIFFITH GATE, MIDDLETON",
+        "city": "MILTON KEYNES",
+        "postcode": "MK10 9BQ",
+        "phone": "01908 393979"
+      },
+      {
+        "name": "WESTCROFT HEALTH CENTRE",
+        "addressLine1": "WESTCROFT HEALTH CENTRE",
+        "addressLine2": "1 SAVILL LANE, WESTCROFT",
+        "city": "MILTON KEYNES",
+        "postcode": "MK4 4EN",
+        "phone": "01908 520545"
+      },
+      {
+        "name": "FAIRFAX GROUP PRACTICE",
+        "addressLine1": "PRESTWICH HEALTH CENTRE",
+        "addressLine2": "FAIRFAX ROAD",
+        "city": "PRESTWICH",
+        "postcode": "M25 1BT",
+        "phone": "0161 7732483"
+      },
+      {
+        "name": "THE UPLANDS MEDICAL PRACTICE",
+        "addressLine1": "WHITEFIELD HEALTH CENTRE",
+        "addressLine2": "BURY NEW ROAD",
+        "city": "WHITEFIELD",
+        "postcode": "M45 8GH",
+        "phone": "0161 7668221"
+      },
+      {
+        "name": "RADCLIFFE MEDICAL PRACTICE",
+        "addressLine1": "RADCLIFFE PRIMARY CARE CT",
+        "addressLine2": "69 CHURCH STREET WEST",
+        "city": "RADCLIFFE",
+        "postcode": "M26 2SP",
+        "phone": "0161 7242062"
+      },
+      {
+        "name": "MONARCH MEDICAL CENTRE",
+        "addressLine1": "MONARCH MEDICAL CENTRE",
+        "addressLine2": "65 CROSS LANE",
+        "city": "RADCLIFFE",
+        "postcode": "M26 2QZ",
+        "phone": "0161 7230123"
+      },
+      {
+        "name": "ST GABRIEL'S MEDICAL CENTRE",
+        "addressLine1": "ST.GABRIELS MEDICAL CTR.",
+        "addressLine2": "4 BISHOPS ROAD, PRESTWICH",
+        "city": "MANCHESTER",
+        "postcode": "M25 0HT",
+        "phone": "0161 7731791"
+      },
+      {
+        "name": "GREYLAND MEDICAL CENTRE",
+        "addressLine1": "GREYLAND MEDICAL CENTRE",
+        "addressLine2": "468 BURY OLD ROAD",
+        "city": "PRESTWICH",
+        "postcode": "M25 1NL",
+        "phone": "0161 7989818"
+      },
+      {
+        "name": "SPRING LANE SURGERY",
+        "addressLine1": "SPRING LANE SURGERY",
+        "addressLine2": "15-17 SPRING LN,RADCLIFFE",
+        "city": "MANCHESTER",
+        "postcode": "M26 2TQ",
+        "phone": "0161 7246938"
+      },
+      {
+        "name": "RED BANK GROUP PRACTICE",
+        "addressLine1": "RADCLIFFE PRIMARY CARE CT",
+        "addressLine2": "69 CHURCH STREET WEST",
+        "city": "RADCLIFFE",
+        "postcode": "M26 2SP",
+        "phone": "0161 7242042"
+      },
+      {
+        "name": "WHITTAKER LANE MED CENTRE",
+        "addressLine1": "WHITTAKER LANE MED CENTRE",
+        "addressLine2": "DAISY BANK",
+        "city": "WHITTAKER LANE,PRESTWICH",
+        "postcode": "M25 1EX",
+        "phone": "0161 7731580"
+      },
+      {
+        "name": "THE ELMS MEDICAL CENTRE",
+        "addressLine1": "THE ELMS MEDICAL CENTRE",
+        "addressLine2": "GREEN LANE, WHITEFIELD",
+        "city": "MANCHESTER",
+        "postcode": "M45 7FD",
+        "phone": "0161 7662311"
+      },
+      {
+        "name": "THE BIRCHES MEDICAL CENTRE",
+        "addressLine1": "THE BIRCHES MEDICAL CTR.",
+        "addressLine2": "POLEFIELD ROAD",
+        "city": "PRESTWICH",
+        "postcode": "M25 2GN",
+        "phone": "0161 7733037"
+      },
+      {
+        "name": "LONGFIELD MEDICAL PRACTICE",
+        "addressLine1": "LONGFIELD MEDICAL PRAC",
+        "addressLine2": "PRESTWICH HC,FAIRFAX ROAD",
+        "city": "PRESTWICH",
+        "postcode": "M25 1BT",
+        "phone": "0161 7730494"
+      },
+      {
+        "name": "FIVE OAKS FAMILIY PRACTICE",
+        "addressLine1": "FIVE OAKS FAMILY PRACTICE",
+        "addressLine2": "47 GRAHAM STREET, BESWICK",
+        "city": "MANCHESTER",
+        "postcode": "M11 3BB",
+        "phone": "0161 2234211"
+      },
+      {
+        "name": "THE VALLANCE CENTRE",
+        "addressLine1": "THE VALLANCE CENTRE",
+        "addressLine2": "BRUNSWICK STREET",
+        "city": "MANCHESTER",
+        "postcode": "M13 9UJ",
+        "phone": "0161 2741500"
+      },
+      {
+        "name": "AILSA CRAIG MEDICAL CENTRE",
+        "addressLine1": "AILSA CRAIG MEDICAL GROUP",
+        "addressLine2": "270 DICKENSON ROAD",
+        "city": "LONGSIGHT",
+        "postcode": "M13 0YL",
+        "phone": "0161 2245555"
+      },
+      {
+        "name": "THE BORCHARDT MEDICAL CENTRE",
+        "addressLine1": "THE BORCHARDT MEDICAL CTR",
+        "addressLine2": "62 WHITCHURCH ROAD",
+        "city": "WITHINGTON",
+        "postcode": "M20 1EB",
+        "phone": "0161 4382821"
+      },
+      {
+        "name": "NORTHENDEN GROUP PRACTICE",
+        "addressLine1": "THE NORTHENDEN GROUP PRAC",
+        "addressLine2": "489 PALATINE ROAD",
+        "city": "NORTHENDEN",
+        "postcode": "M22 4DH",
+        "phone": "0161 9983206"
+      },
+      {
+        "name": "RK MEDICAL PRACTICE",
+        "addressLine1": "BROWNLEY GREEN HEALTH CTR",
+        "addressLine2": "171 BROWNLEY ROAD",
+        "city": "WYTHENSHAWE",
+        "postcode": "M22 9UH",
+        "phone": "0161 4939493"
+      },
+      {
+        "name": "LEVENSHULME MEDICAL PRACTICE",
+        "addressLine1": "LEVENSHULME HEALTH CENTRE",
+        "addressLine2": "DUNSTABLE ST, LEVENSHULME",
+        "city": "MANCHESTER",
+        "postcode": "M19 3BX",
+        "phone": "0161 2254033"
+      },
+      {
+        "name": "LADYBARN GROUP PRACTICE",
+        "addressLine1": "LADYBARN GROUP PRACTICE",
+        "addressLine2": "54 BRIARFIELD ROAD",
+        "city": "WITHINGTON",
+        "postcode": "M20 4SS",
+        "phone": "0161 4484500"
+      },
+      {
+        "name": "MAULDETH MEDICAL CENTRE",
+        "addressLine1": "MAULDETH MEDICAL CENTRE",
+        "addressLine2": "112 MAULDETH ROAD",
+        "city": "FALLOWFIELD",
+        "postcode": "M14 6SQ",
+        "phone": "0161 4346678"
+      },
+      {
+        "name": "VALENTINE MEDICAL CENTRE",
+        "addressLine1": "VALENTINE MEDICAL CENTRE",
+        "addressLine2": "2 SMETHURST ST, BLACKLEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 8PP",
+        "phone": "0161 2415480"
+      },
+      {
+        "name": "PEEL HALL MEDICAL CENTRE",
+        "addressLine1": "PEEL HALL MEDICAL PRAC",
+        "addressLine2": "FORUM HEALTH SIMONSWAY",
+        "city": "MANCHESTER",
+        "postcode": "M22 5RX",
+        "phone": "0161 3751000"
+      },
+      {
+        "name": "THE MAPLES MEDICAL CENTRE",
+        "addressLine1": "THE MAPLES MEDICAL CENTRE",
+        "addressLine2": "2 SCOUT DR, NEWALL GREEN",
+        "city": "MANCHESTER",
+        "postcode": "M23 2SY",
+        "phone": "0161 4988484"
+      },
+      {
+        "name": "KINGSWAY MEDICAL PRACTICE",
+        "addressLine1": "720 BURNAGE LANE",
+        "addressLine2": "BURNAGE",
+        "city": "MANCHESTER",
+        "postcode": "M19 1UG",
+        "phone": "0161 8049899"
+      },
+      {
+        "name": "SURREY LODGE PRACTICE",
+        "addressLine1": "SURREY LODGE GROUP PRACT",
+        "addressLine2": "11 ANSON ROAD",
+        "city": "VICTORIA PARK",
+        "postcode": "M14 5BY",
+        "phone": "0161 2242471"
+      },
+      {
+        "name": "BOWLAND MEDICAL PRACTICE",
+        "addressLine1": "52 BOWLAND ROAD",
+        "addressLine2": "BAGULEY",
+        "city": "MANCHESTER",
+        "postcode": "M23 1JX",
+        "phone": "0161 9982014"
+      },
+      {
+        "name": "ST GEORGE'S MEDICAL CENTRE",
+        "addressLine1": "ST.GEORGES DRIVE MED CTR",
+        "addressLine2": "ST.GEORGES DRIVE, MOSTON",
+        "city": "MANCHESTER",
+        "postcode": "M40 5HP",
+        "phone": "0161 8703449"
+      },
+      {
+        "name": "DICKENSON ROAD MEDICAL CENTRE",
+        "addressLine1": "357-359 DICKENSON ROAD",
+        "addressLine2": "LONGSIGHT",
+        "city": "MANCHESTER",
+        "postcode": "M13 0WQ",
+        "phone": "0161 2246522"
+      },
+      {
+        "name": "WEST POINT MEDICAL CENTRE",
+        "addressLine1": "WEST POINT MEDICAL CENTRE",
+        "addressLine2": "167-169 SLADE LANE",
+        "city": "LEVENSHULME",
+        "postcode": "M19 2AF",
+        "phone": "0161 2485100"
+      },
+      {
+        "name": "GORTON MEDICAL CENTRE",
+        "addressLine1": "GORTON MEDICAL CENTRE",
+        "addressLine2": "46 WELLINGTON ST, GORTON",
+        "city": "MANCHESTER",
+        "postcode": "M18 8LJ",
+        "phone": "0161 2231113"
+      },
+      {
+        "name": "BENCHILL MEDICAL PRACTICE",
+        "addressLine1": "BROWNLEY GREEN HEALTH CTR",
+        "addressLine2": "171 BROWNLEY ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M22 9UH",
+        "phone": "0161 4939101"
+      },
+      {
+        "name": "NEW COLLEGIATE MEDICAL CENTRE",
+        "addressLine1": "NEW COLLEGIATE MED.CENTRE",
+        "addressLine2": "407 CHEETHAM HILL ROAD",
+        "city": "CHEETHAM",
+        "postcode": "M8 0DA",
+        "phone": "0161 2054364"
+      },
+      {
+        "name": "DR MOKASHI",
+        "addressLine1": "CLAYTON HEALTH CENTRE",
+        "addressLine2": "89 NORTH ROAD, CLAYTON",
+        "city": "MANCHESTER",
+        "postcode": "M11 4EJ",
+        "phone": "0161 2238388"
+      },
+      {
+        "name": "BEACON MEDICAL CENTRE",
+        "addressLine1": "BEACON MEDICAL CENTRE",
+        "addressLine2": "156 VICTORIA AVE,BLACKLEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 0FN",
+        "phone": "0161 7402106"
+      },
+      {
+        "name": "BARLOW MEDICAL CENTRE",
+        "addressLine1": "BARLOW MEDICAL CENTRE",
+        "addressLine2": "828 WILMSLOW RD, DIDSBURY",
+        "city": "MANCHESTER",
+        "postcode": "M20 2RN",
+        "phone": "0161 4459000"
+      },
+      {
+        "name": "BODEY MEDICAL CENTRE",
+        "addressLine1": "BODEY MEDICAL CENTRE",
+        "addressLine2": "28 LADYBARN LANE",
+        "city": "FALLOWFIELD",
+        "postcode": "M14 6WP",
+        "phone": "0161 2486644"
+      },
+      {
+        "name": "DR CUNNINGHAM & PARTNERS",
+        "addressLine1": "THE VALLANCE CENTRE",
+        "addressLine2": "BRUNSWICK STREET",
+        "city": "MANCHESTER",
+        "postcode": "M13 9UJ",
+        "phone": "0161 2741500"
+      },
+      {
+        "name": "ASHVILLE SURGERY",
+        "addressLine1": "ASHVILLE SURGERY",
+        "addressLine2": "171 UPPER CHORLTON RD",
+        "city": "WHALLEY RANGE, MANCHESTER",
+        "postcode": "M16 9RT",
+        "phone": "0161 8814293"
+      },
+      {
+        "name": "THE RANGE MEDICAL CENTRE",
+        "addressLine1": "THE RANGE MEDICAL CENTRE",
+        "addressLine2": "121 WITHINGTON ROAD",
+        "city": "WHALLEY RANGE",
+        "postcode": "M16 8EE",
+        "phone": "0844 4996977"
+      },
+      {
+        "name": "CONRAN MEDICAL CENTRE",
+        "addressLine1": "CONRAN MEDICAL CENTRE",
+        "addressLine2": "77 CHURCH LANE, HARPURHEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 5BH",
+        "phone": "0161 2052714"
+      },
+      {
+        "name": "CORNERSTONE FAMILY PRACTICE",
+        "addressLine1": "CORNERSTONE CENTRE",
+        "addressLine2": "GRAHAM STREET, BESWICK",
+        "city": "MANCHESTER",
+        "postcode": "M11 3AA",
+        "phone": "0161 2230637"
+      },
+      {
+        "name": "FLORENCE HOUSE MEDICAL PRACTICE",
+        "addressLine1": "HGR OPENSHAW PCC",
+        "addressLine2": "1344 ASHTON OLD ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M11 1JG",
+        "phone": "0161 3702133"
+      },
+      {
+        "name": "CORNISHWAY GROUP PRACTICE",
+        "addressLine1": "FORUM HEALTH, SIMONSWAY",
+        "addressLine2": "WYTHENSHAWE",
+        "city": "MANCHESTER",
+        "postcode": "M22 5RX",
+        "phone": "0161 4902293"
+      },
+      {
+        "name": "THE PARK MEDICAL CENTRE",
+        "addressLine1": "PARK MEDICAL CENTRE",
+        "addressLine2": "434 ALTRINCHAM ROAD",
+        "city": "BAGULEY",
+        "postcode": "M23 9AB",
+        "phone": "0161 9985538"
+      },
+      {
+        "name": "CHEETHAM HILL PRIMARY CARE CENTRE",
+        "addressLine1": "CHEETHAM HILL PCC",
+        "addressLine2": "244 CHEETHAM HILL RD",
+        "city": "MANCHESTER",
+        "postcode": "M8 8UP",
+        "phone": "0161 2776939"
+      },
+      {
+        "name": "DROYLSDEN RD FAMILY PRACTICE",
+        "addressLine1": "125 DROYLSDEN ROAD",
+        "addressLine2": "NEWTON HEATH",
+        "city": "MANCHESTER",
+        "postcode": "M40 1NT",
+        "phone": "0161 2412723"
+      },
+      {
+        "name": "TREGENNA GROUP PRACTICE",
+        "addressLine1": "TREGENNA, PORTWAY",
+        "addressLine2": "WOODHOUSE PK,WYTHENSHAWE",
+        "city": "MANCHESTER",
+        "postcode": "M22 0EP",
+        "phone": "0161 4993777"
+      },
+      {
+        "name": "THE AVENUE MEDICAL CENTRE",
+        "addressLine1": "THE AVENUE MEDICAL CENTRE",
+        "addressLine2": "51-53 VICTORIA AVENUE",
+        "city": "BLACKLEY",
+        "postcode": "M9 6BA",
+        "phone": "0161 7209441"
+      },
+      {
+        "name": "MOUNT ROAD SURGERY",
+        "addressLine1": "MOUNT ROAD SURGERY",
+        "addressLine2": "110 MOUNT ROAD, GORTON",
+        "city": "MANCHESTER",
+        "postcode": "M18 7BQ",
+        "phone": "0161 2314997"
+      },
+      {
+        "name": "EASTLANDS MEDICAL CENTRE",
+        "addressLine1": "CLAYTON HEALTH CENTRE",
+        "addressLine2": "89 NORTH ROAD, CLAYTON",
+        "city": "MANCHESTER",
+        "postcode": "M11 4EJ",
+        "phone": "0161 2239229"
+      },
+      {
+        "name": "WEST GORTON MEDICAL PRACTICE",
+        "addressLine1": "WEST GORTON MEDICAL CTR.",
+        "addressLine2": "2 CLOWES ST, WEST GORTON",
+        "city": "MANCHESTER",
+        "postcode": "M12 5JE",
+        "phone": "0161 2235226"
+      },
+      {
+        "name": "ASHCROFT SURGERY",
+        "addressLine1": "ASHCROFT SURGERY",
+        "addressLine2": "803 STOCKPORT ROAD",
+        "city": "LEVENSHULME",
+        "postcode": "M19 3BS",
+        "phone": "0161 2241329"
+      },
+      {
+        "name": "WHITLEY ROAD MEDICAL CENTRE",
+        "addressLine1": "WHITLEY ROAD MEDICAL CTR",
+        "addressLine2": "1 WHITLEY ROAD",
+        "city": "COLLYHURST",
+        "postcode": "M40 7QH",
+        "phone": "0161 2054407"
+      },
+      {
+        "name": "MERSEYBANK SURGERY",
+        "addressLine1": "36 MERSEYBANK AVENUE",
+        "addressLine2": "CHORLTON",
+        "city": "MANCHESTER",
+        "postcode": "M21 7NN",
+        "phone": "0161 4455559"
+      },
+      {
+        "name": "PRINCESS ROAD SURGERY",
+        "addressLine1": "PRINCESS ROAD SURGERY",
+        "addressLine2": "471-475 PRINCESS ROAD",
+        "city": "WITHINGTON",
+        "postcode": "M20 1BH",
+        "phone": "0161 4457805"
+      },
+      {
+        "name": "KAYA PRACTICE",
+        "addressLine1": "CHORLTON HEALTH CENTRE",
+        "addressLine2": "1 NICOLAS ROAD",
+        "city": "CHORLTON-CUM-HARDY",
+        "postcode": "M21 9NJ",
+        "phone": "0161 8816131"
+      },
+      {
+        "name": "LIME SQUARE MEDICAL CENTRE",
+        "addressLine1": "LIME SQUARE",
+        "addressLine2": "ASHTON OLD ROAD, OPENSHAW",
+        "city": "MANCHESTER",
+        "postcode": "M11 1DA",
+        "phone": "0161 3710678"
+      },
+      {
+        "name": "BROOKLANDS MEDICAL PRACTICE",
+        "addressLine1": "BROOKLANDS MEDICAL CENTRE",
+        "addressLine2": "594 ALTRINCHAM ROAD",
+        "city": "WYTHENSHAWE",
+        "postcode": "M23 9JH",
+        "phone": "0161 9983818"
+      },
+      {
+        "name": "BROOKDALE SURGERY",
+        "addressLine1": "BROOKDALE SURGERY",
+        "addressLine2": "202 DROYLSDEN ROAD",
+        "city": "NEWTON HEATH,MANCHESTER",
+        "postcode": "M40 1NZ",
+        "phone": "0161 6814265"
+      },
+      {
+        "name": "DR CHEN & DAVIS",
+        "addressLine1": "CHORLTON HEALTH CENTRE",
+        "addressLine2": "1 NICOLAS ROAD",
+        "city": "CHORLTON-CUM-HARDY",
+        "postcode": "M21 9NJ",
+        "phone": "0161 8817941"
+      },
+      {
+        "name": "NEW ISLINGTON MEDICAL CENTRE",
+        "addressLine1": "ANCOATS PRIMARY CARE CTRE",
+        "addressLine2": "OLD MILL STREET,ANCOATS",
+        "city": "MANCHESTER",
+        "postcode": "M4 6EE",
+        "phone": "0161 2725660"
+      },
+      {
+        "name": "THE SINGH MEDICAL PRACTICE",
+        "addressLine1": "THE SINGH MEDICAL PRACT",
+        "addressLine2": "1 CHURCH LANE,HARPURHEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 4BE",
+        "phone": "0161 8612408"
+      },
+      {
+        "name": "DAVID MEDICAL CENTRE",
+        "addressLine1": "DAVID MEDICAL CENTRE",
+        "addressLine2": "274 BARLOW MOOR ROAD",
+        "city": "CHORLTON-CUM-HARDY",
+        "postcode": "M21 8HA",
+        "phone": "0161 8812297"
+      },
+      {
+        "name": "HAZELDENE MEDICAL CENTRE",
+        "addressLine1": "HAZELDENE MEDICAL CENTRE",
+        "addressLine2": "97 MOSTON LANE EAST",
+        "city": "NEW MOSTON, MANCHESTER",
+        "postcode": "M40 3HD",
+        "phone": "0844 4773527"
+      },
+      {
+        "name": "CHORLTON FAMILY PRACTICE",
+        "addressLine1": "CHORLTON HEALTH CENTRE",
+        "addressLine2": "1 NICOLAS ROAD",
+        "city": "CHORLTON-CUM-HARDY",
+        "postcode": "M21 9NJ",
+        "phone": "0161 8814545"
+      },
+      {
+        "name": "NEWTON HEATH MEDICAL CENTRE",
+        "addressLine1": "NEWTON HEATH HEALTH CTRE",
+        "addressLine2": "2 OLD CHURCH STREET",
+        "city": "NEWTON HEATH",
+        "postcode": "M40 2JF",
+        "phone": "0161 6811353"
+      },
+      {
+        "name": "WILBRAHAM SURGERY",
+        "addressLine1": "515 WILBRAHAM ROAD",
+        "addressLine2": "CHORLTON-CUM-HARDY",
+        "city": "MANCHESTER",
+        "postcode": "M21 0UF",
+        "phone": "0161 8816120"
+      },
+      {
+        "name": "THE ROBERT DARBISHIRE PRACTICE",
+        "addressLine1": "ROBERT DARBISHIRE PRACT.",
+        "addressLine2": "RUSHOLME HEALTH CENTRE",
+        "city": "WALMER STREET,RUSHOLME",
+        "postcode": "M14 5NP",
+        "phone": "0161 2256699"
+      },
+      {
+        "name": "WELLFIELD MEDICAL CENTRE",
+        "addressLine1": "WELLFIELD MEDICAL CENTRE",
+        "addressLine2": "53 CRESCENT RD, CRUMPSALL",
+        "city": "MANCHESTER",
+        "postcode": "M8 9JT",
+        "phone": "0161 7402213"
+      },
+      {
+        "name": "FERNCLOUGH SURGERY",
+        "addressLine1": "UNIT 1, TAVISTOCK SQUARE",
+        "addressLine2": "HARPURHEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 5RD",
+        "phone": "0161 2051638"
+      },
+      {
+        "name": "DR CHIU, KOH AND GAN",
+        "addressLine1": "THE VALLANCE CENTRE",
+        "addressLine2": "BRUNSWICK STREET",
+        "city": "MANCHESTER",
+        "postcode": "M13 9UJ",
+        "phone": "0161 2741500"
+      },
+      {
+        "name": "MANCHESTER MEDICAL",
+        "addressLine1": "MOSS SIDE HEALTH CENTRE",
+        "addressLine2": "MONTON STREET, MOSS SIDE",
+        "city": "MANCHESTER",
+        "postcode": "M14 4GP",
+        "phone": "0161 2267615"
+      },
+      {
+        "name": "ALEESHAN MEDICAL CENTRE",
+        "addressLine1": "3 SHIRLEY ROAD",
+        "addressLine2": "CHEETHAM HILL",
+        "city": "MANCHESTER",
+        "postcode": "M8 0WB",
+        "phone": "0161 7950200"
+      },
+      {
+        "name": "WILMSLOW ROAD SURGERY",
+        "addressLine1": "WILMSLOW ROAD MEDICAL CTR",
+        "addressLine2": "156 WILMSLOW RD, RUSHOLME",
+        "city": "MANCHESTER",
+        "postcode": "M14 5LQ",
+        "phone": "0161 2242452"
+      },
+      {
+        "name": "DR TIWARI'S PRACTICE",
+        "addressLine1": "63 REDDISH LANE",
+        "addressLine2": "GORTON",
+        "city": "MANCHESTER",
+        "postcode": "M18 7JH",
+        "phone": "0161 2230031"
+      },
+      {
+        "name": "THE ARCH MEDICAL PRACTICE",
+        "addressLine1": "HULME MEDICAL CENTRE",
+        "addressLine2": "175 ROYCE ROAD",
+        "city": "HULME, MANCHESTER",
+        "postcode": "M15 5TJ",
+        "phone": "0161 2260606"
+      },
+      {
+        "name": "ARTANE MEDICAL CENTRE",
+        "addressLine1": "ARTANE MEDICAL CENTRE",
+        "addressLine2": "1 MIDDLETON ROAD",
+        "city": "HIGHER CRUMPSALL",
+        "postcode": "M8 5DT",
+        "phone": "0161 7402785"
+      },
+      {
+        "name": "THE WHITSWOOD PRACTICE",
+        "addressLine1": "THE WHITSWOOD PRACTICE",
+        "addressLine2": "2 WHITSWOOD CLOSE",
+        "city": "MANCHESTER",
+        "postcode": "M16 7AP",
+        "phone": "0161 2263620"
+      },
+      {
+        "name": "THE MAZHARI & KHAN PRACTICE",
+        "addressLine1": "CLAYTON HEALTH CENTRE",
+        "addressLine2": "89 NORTH ROAD, CLAYTON",
+        "city": "MANCHESTER",
+        "postcode": "M11 4EJ",
+        "phone": "0161 2231658"
+      },
+      {
+        "name": "FALLOWFIELD MEDICAL CENTRE",
+        "addressLine1": "FALLOWFIELD MEDICAL CTR",
+        "addressLine2": "75 LADYBARN LANE",
+        "city": "FALLOWFIELD",
+        "postcode": "M14 6YL",
+        "phone": "0161 2244503"
+      },
+      {
+        "name": "QUEENS MEDICAL CENTRE",
+        "addressLine1": "CHEETHAM HILL PCC",
+        "addressLine2": "244 CHEETHAM HILL ROAD",
+        "city": "CHEETHAM HILL",
+        "postcode": "M8 8AU",
+        "phone": "0161 2776939"
+      },
+      {
+        "name": "DR DASS'S PRACTICE",
+        "addressLine1": "ALEXANDRA PARK HEALTH CTR",
+        "addressLine2": "2 WHITSWOOD CLOSE",
+        "city": "MANCHESTER",
+        "postcode": "M16 7AW",
+        "phone": "0161 2264616"
+      },
+      {
+        "name": "PARKSIDE SURGERY",
+        "addressLine1": "PARKSIDE SURGERY",
+        "addressLine2": "187 NORTHMOOR ROAD",
+        "city": "LONGSIGHT",
+        "postcode": "M12 5RU",
+        "phone": "0161 2573338"
+      },
+      {
+        "name": "PARK VIEW MEDICAL CENTRE",
+        "addressLine1": "PARK VIEW MEDICAL CENTRE",
+        "addressLine2": "66 DELAUNAYS ROAD",
+        "city": "CRUMPSALL",
+        "postcode": "M8 4RF",
+        "phone": "0161 7955667"
+      },
+      {
+        "name": "HULME MEDICAL CENTRE",
+        "addressLine1": "HULME MEDICAL CENTRE",
+        "addressLine2": "175A ROYCE ROAD",
+        "city": "HULME",
+        "postcode": "M15 5TJ",
+        "phone": "0161 2261804"
+      },
+      {
+        "name": "THE ALEXANDRA PRACTICE",
+        "addressLine1": "365 WILBRAHAM ROAD",
+        "addressLine2": "WHALLEY RANGE",
+        "city": "MANCHESTER",
+        "postcode": "M16 8NG",
+        "phone": "0161 8604400"
+      },
+      {
+        "name": "NORTHERN MOOR MEDICAL PRACTICE",
+        "addressLine1": "NORTHERN MOOR MED PRACT",
+        "addressLine2": "216 WYTHENSHAWE ROAD",
+        "city": "NORTHERN MOOR",
+        "postcode": "M23 0PH",
+        "phone": "0161 9982503"
+      },
+      {
+        "name": "CORKLAND ROAD MEDICAL PRACTICE",
+        "addressLine1": "7-9 CORKLAND ROAD",
+        "addressLine2": "CHORLTON-CUM-HARDY",
+        "city": "MANCHESTER",
+        "postcode": "M21 8UP",
+        "phone": "0161 8816223"
+      },
+      {
+        "name": "DR HUSSAIN'S PRACTICE",
+        "addressLine1": "MOSS SIDE HEALTH CENTRE",
+        "addressLine2": "MONTON STREET, MOSS SIDE",
+        "city": "MANCHESTER",
+        "postcode": "M14 4GP",
+        "phone": "0161 2261849"
+      },
+      {
+        "name": "VAISHALI MEDICAL CENTRE",
+        "addressLine1": "13 CORKLAND ROAD",
+        "addressLine2": "CHORLTON-CUM-HARDY",
+        "city": "MANCHESTER",
+        "postcode": "M21 8UP",
+        "phone": "0161 8815074"
+      },
+      {
+        "name": "THE NEVILLE FAMILY CENTRE",
+        "addressLine1": "THE NEVILLE FAMILY CENTRE",
+        "addressLine2": "25 OLD MARKET ST,BLACKLEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 8DX",
+        "phone": "0161 7214865"
+      },
+      {
+        "name": "AL-SHIFA MEDICAL CENTRE",
+        "addressLine1": "4-6 COPSON STREET",
+        "addressLine2": "WITHINGTON",
+        "city": "MANCHESTER",
+        "postcode": "M20 3HE",
+        "phone": "0844 3878505"
+      },
+      {
+        "name": "DR CHAUDURY'S PRACTICE",
+        "addressLine1": "ALEXANDRA PARK HEALTH CTR",
+        "addressLine2": "2 WHITSWOOD CLOSE",
+        "city": "MANCHESTER",
+        "postcode": "M16 7AP",
+        "phone": "0844 8151341"
+      },
+      {
+        "name": "CORNBROOK MEDICAL PRACTICE",
+        "addressLine1": "CITY ROAD SURGERY",
+        "addressLine2": "204 CITY ROAD, HULME",
+        "city": "MANCHESTER",
+        "postcode": "M15 4EA",
+        "phone": "0161 8728129"
+      },
+      {
+        "name": "WOODLANDS MEDICAL PRACTICE",
+        "addressLine1": "WOODLANDS MED PRACTICE",
+        "addressLine2": "9 MAPLE RD, BROOKLANDS",
+        "city": "MANCHESTER",
+        "postcode": "M23 9RL",
+        "phone": "0161 9621332"
+      },
+      {
+        "name": "ANCOATS URBAN VILLAGE MEDICAL PRACTICE",
+        "addressLine1": "ANCOATS PRIMARY CARE CTRE",
+        "addressLine2": "OLD MILL STREET,ANCOATS",
+        "city": "MANCHESTER",
+        "postcode": "M4 6EE",
+        "phone": "0161 2725656"
+      },
+      {
+        "name": "OSWALD ROAD MEDICAL PRACTICE",
+        "addressLine1": "OSWALD MEDICAL PRACTICE",
+        "addressLine2": "4 OSWALD ROAD, CHORLTON",
+        "city": "MANCHESTER",
+        "postcode": "M21 9LH",
+        "phone": "0161 8814744"
+      },
+      {
+        "name": "DIDSBURY MEDICAL CENTRE- DR ASHWORTH",
+        "addressLine1": "DIDSBURY MEDICAL CENTRE",
+        "addressLine2": "645 WILMSLOW ROAD",
+        "city": "DIDSBURY",
+        "postcode": "M20 6BA",
+        "phone": "0161 4453731"
+      },
+      {
+        "name": "DIDSBURY MEDICAL CENTRE - DR WHITAKER",
+        "addressLine1": "DIDSBURY MEDICAL CENTRE",
+        "addressLine2": "645 WILMSLOW RD, DIDSBURY",
+        "city": "MANCHESTER",
+        "postcode": "M20 6BA",
+        "phone": "0161 4453731"
+      },
+      {
+        "name": "WILLOWBANK SURGERY",
+        "addressLine1": "1 WILLOWBANK",
+        "addressLine2": "CHURCH LANE",
+        "city": "MANCHESTER",
+        "postcode": "M9 4WH",
+        "phone": "0161 2059240"
+      },
+      {
+        "name": "BURNAGE HEALTHCARE PRACTICE",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "PRIMARY CARE RESOURCE CTR",
+        "city": "BURNAGE LANE",
+        "postcode": "M19 1EW",
+        "phone": "0161 4321404"
+      },
+      {
+        "name": "THE DOC'S SURGERY",
+        "addressLine1": "THE DOC'S SURGERY",
+        "addressLine2": "55-59 BLOOM STREET",
+        "city": "MANCHESTER",
+        "postcode": "M1 3LY",
+        "phone": "0161 2379490"
+      },
+      {
+        "name": "JOLLY MEDICAL CENTRE",
+        "addressLine1": "THE JOLLY MEDICAL CENTRE",
+        "addressLine2": "72 CRESCENT RD, CRUMPSALL",
+        "city": "MANCHESTER",
+        "postcode": "M8 9NT",
+        "phone": "0161 7409864"
+      },
+      {
+        "name": "DR KOH'S PRACTICE",
+        "addressLine1": "THE VALLANCE CENTRE",
+        "addressLine2": "BRUNSWICK STREET",
+        "city": "MANCHESTER",
+        "postcode": "M13 9UJ",
+        "phone": "0161 2741500"
+      },
+      {
+        "name": "LONGSIGHT MEDICAL PRACTICE",
+        "addressLine1": "LONGSIGHT HEALTH CENTRE",
+        "addressLine2": "526-528 STOCKPORT ROAD",
+        "city": "LONGSIGHT",
+        "postcode": "M13 0RR",
+        "phone": "0161 2564488"
+      },
+      {
+        "name": "DAM HEAD MEDICAL CENTRE",
+        "addressLine1": "DAM HEAD MEDICAL CENTRE",
+        "addressLine2": "1020 ROCHDALE RD,BLACKLEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 7HD",
+        "phone": "0161 7209744"
+      },
+      {
+        "name": "MANCHESTER DRUG SERVICES",
+        "addressLine1": "THE BRIDGE",
+        "addressLine2": "FAIRFIELD STREET",
+        "city": "MANCHESTER",
+        "postcode": "M1 2WR",
+        "phone": "0161 2734040"
+      },
+      {
+        "name": "COMMUNITY PAEDIATRICIANS",
+        "addressLine1": "LONGSIGHT HEALTH CENTRE",
+        "addressLine2": "526-528 STOCKPORT ROAD",
+        "city": "LONGSIGHT",
+        "postcode": "M13 0RR",
+        "phone": "0161 2481203"
+      },
+      {
+        "name": "WYTHENSHAWE FORUM WALK IN CENTRE",
+        "addressLine1": "WYTHENSHAWE FORUM",
+        "addressLine2": "SIMONSWAY",
+        "city": "WYTHENSHAWE, MANCHESTER",
+        "postcode": "M22 5RX",
+        "phone": "0161 4908082"
+      },
+      {
+        "name": "FAILSWORTH GROUP PRACTICE",
+        "addressLine1": "THE FAILSWORTH GROUP PRAC",
+        "addressLine2": "FAILSWORTH DISTRICT CTR",
+        "city": "ASHTON RD WEST,FAILSWORTH",
+        "postcode": "M35 0AD",
+        "phone": "0161 6826297"
+      },
+      {
+        "name": "QUAYSIDE MEDICAL PRACTICE",
+        "addressLine1": "ASHTON ROAD WEST",
+        "addressLine2": "FAILSWORTH",
+        "city": "MANCHESTER",
+        "postcode": "M35 0AD",
+        "phone": "0161 6811818"
+      },
+      {
+        "name": "HOSSAIN PRACTICE",
+        "addressLine1": "FAILSWORTH DISTRICT CTR",
+        "addressLine2": "ASHTON RD WEST",
+        "city": "FAILSWORTH",
+        "postcode": "M35 0AD",
+        "phone": "0161 6811401"
+      },
+      {
+        "name": "PETERLOO MEDICAL CENTRE",
+        "addressLine1": "PETERLOO MEDICAL CENTRE",
+        "addressLine2": "133-135 MANCHESTER OLD RD",
+        "city": "MIDDLETON",
+        "postcode": "M24 4DZ",
+        "phone": "0161 6435005"
+      },
+      {
+        "name": "THE JUNCTION SURGERY",
+        "addressLine1": "THE JUNCTION SURGERY",
+        "addressLine2": "346 GRIMSHAW LANE",
+        "city": "MIDDLETON JUNCTION",
+        "postcode": "M24 2AU",
+        "phone": "0161 6557478"
+      },
+      {
+        "name": "WOODSIDE MEDICAL CENTRE",
+        "addressLine1": "WOODSIDE MEDICAL CENTRE",
+        "addressLine2": "247J WOOD STREET",
+        "city": "LANGLEY ESTATE, MIDDLETON",
+        "postcode": "M24 5QL",
+        "phone": "0161 6439244"
+      },
+      {
+        "name": "ROCHDALE ROAD MEDICAL CENTRE",
+        "addressLine1": "ROCHDALE ROAD MEDICAL CTR",
+        "addressLine2": "48A ROCHDALE ROAD",
+        "city": "MIDDLETON",
+        "postcode": "M24 2PU",
+        "phone": "0161 6439131"
+      },
+      {
+        "name": "DURNFORD MEDICAL CENTRE",
+        "addressLine1": "DURNFORD MEDICAL CENTRE",
+        "addressLine2": "113 LONG STREET",
+        "city": "MIDDLETON",
+        "postcode": "M24 6DL",
+        "phone": "0161 6432011"
+      },
+      {
+        "name": "FAMILY PRACTICE",
+        "addressLine1": "133 BOWNESS ROAD",
+        "addressLine2": "LANGLEY",
+        "city": "MIDDLETON",
+        "postcode": "M24 4EN",
+        "phone": "0161 6434459"
+      },
+      {
+        "name": "WINDERMERE SURGERY",
+        "addressLine1": "109-111 WINDERMERE ROAD",
+        "addressLine2": "LANGLEY",
+        "city": "MIDDLETON",
+        "postcode": "M24 5WF",
+        "phone": "0844 4778558"
+      },
+      {
+        "name": "THE POPLARS MEDICAL PRACTICE",
+        "addressLine1": "THE POPLARS MEDICAL CTR.",
+        "addressLine2": "202 PARTINGTON LN,SWINTON",
+        "city": "MANCHESTER",
+        "postcode": "M27 0NA",
+        "phone": "0161 7946237"
+      },
+      {
+        "name": "4/ST ANDREWS MEDICAL PRACTICE",
+        "addressLine1": "ST.ANDREWS MEDICAL CENTRE",
+        "addressLine2": "30 RUSSELL STREET, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0NU",
+        "phone": "0161 7075500"
+      },
+      {
+        "name": "1/SALFORD MEDICAL PRACTICE",
+        "addressLine1": "SALFORD MEDICAL CENTRE",
+        "addressLine2": "194-198 LANGWORTHY ROAD",
+        "city": "SALFORD",
+        "postcode": "M6 5PP",
+        "phone": "0161 7361166"
+      },
+      {
+        "name": "WALKDEN MEDICAL CENTRE",
+        "addressLine1": "WALKDEN M/CTR, 2 HODGE RD",
+        "addressLine2": "WALKDEN, WORSLEY",
+        "city": "MANCHESTER",
+        "postcode": "M28 3AT",
+        "phone": "0161 7025310"
+      },
+      {
+        "name": "IRLAM GROUP PRACTICE",
+        "addressLine1": "IRLAM GROUP PRACTICE",
+        "addressLine2": "523 LIVERPOOL RD, IRLAM",
+        "city": "MANCHESTER",
+        "postcode": "M44 6ZS",
+        "phone": "0161 7761000"
+      },
+      {
+        "name": "PENDLETON MEDICAL CENTRE",
+        "addressLine1": "PENDLETON GATEWAY",
+        "addressLine2": "1 THE BROADWALK",
+        "city": "SALFORD",
+        "postcode": "M6 5FX",
+        "phone": "0161 2117420"
+      },
+      {
+        "name": "THE SIDES MEDICAL PRACTICE",
+        "addressLine1": "THE SIDES MEDICAL CENTRE",
+        "addressLine2": "MOORSIDE ROAD",
+        "city": "SWINTON",
+        "postcode": "M27 0EW",
+        "phone": "0161 7941604"
+      },
+      {
+        "name": "THE LIMES MEDICAL PRACTICE",
+        "addressLine1": "THE LIMES MEDICAL CENTRE",
+        "addressLine2": "8-12 HODGE ROAD, WALKDEN",
+        "city": "WORSLEY",
+        "postcode": "M28 3AT",
+        "phone": "0161 7908621"
+      },
+      {
+        "name": "SILVERDALE MEDICAL PRACTICE",
+        "addressLine1": "SILVERDALE MED PRACTICE",
+        "addressLine2": "PENDLEBURY HEALTH CENTRE",
+        "city": "659 BOLTON RD,PENDLEBURY",
+        "postcode": "M27 8HP",
+        "phone": "0161 2126565"
+      },
+      {
+        "name": "2/ST ANDREWS MEDICAL PRACTICE",
+        "addressLine1": "ST.ANDREWS MEDICAL CENTRE",
+        "addressLine2": "30 RUSSELL STREET, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0NU",
+        "phone": "0161 7075500"
+      },
+      {
+        "name": "MOCHA PARADE MEDICAL PRACTICE",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "4-5 MOCHA PARADE",
+        "city": "SALFORD",
+        "postcode": "M7 1QE",
+        "phone": "0161 8392721"
+      },
+      {
+        "name": "3/SPRINGFIELD HOUSE MEDICAL PRACTICE",
+        "addressLine1": "SPRINGFIELD MEDICAL CTR",
+        "addressLine2": "384 LIVERPOOL RD, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 8QD",
+        "phone": "0161 8712450"
+      },
+      {
+        "name": "THE LAKES MEDICAL PRACTICE",
+        "addressLine1": "THE LAKES MEDICAL PRACT",
+        "addressLine2": "THE LAKES MEDICAL CTR",
+        "city": "21 CHORLEY ROAD SWINTON",
+        "postcode": "M27 4AF",
+        "phone": "0161 7275241"
+      },
+      {
+        "name": "NEWBURY GREEN MEDICAL PRACTICE",
+        "addressLine1": "NEWBURY PLACE HEALTH CTR",
+        "addressLine2": "55 RIGBY STREET",
+        "city": "SALFORD",
+        "postcode": "M7 4NX",
+        "phone": "0161 2125050"
+      },
+      {
+        "name": "LANGWORTHY MEDICAL PRACTICE",
+        "addressLine1": "LANGWORTHY MEDICAL CENTRE",
+        "addressLine2": "250 LANGWORTHY ROAD",
+        "city": "SALFORD",
+        "postcode": "M6 5WW",
+        "phone": "0161 7379244"
+      },
+      {
+        "name": "THE GILL MEDICAL PRACTICE",
+        "addressLine1": "THE GILL MEDICAL CENTRE",
+        "addressLine2": "5 HARRIET STREET",
+        "city": "WALKDEN, WORSLEY",
+        "postcode": "M28 3DR",
+        "phone": "0161 7903033"
+      },
+      {
+        "name": "ORIENT ROAD MEDICAL PRACTICE",
+        "addressLine1": "37 ORIENT ROAD",
+        "addressLine2": "",
+        "city": "SALFORD",
+        "postcode": "M6 8LE",
+        "phone": "0161 7893029"
+      },
+      {
+        "name": "ORDSALL HEALTH SURGERY",
+        "addressLine1": "ORDSALL HEALTH",
+        "addressLine2": "118 PHOEBE ST, SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M5 3PH",
+        "phone": "0161 2126600"
+      },
+      {
+        "name": "4/LOWER BROUGHTON MEDICAL PRACTICE",
+        "addressLine1": "LOWER BROUGHTON HTH.CTR.",
+        "addressLine2": "GREAT CLOWES STREET",
+        "city": "SALFORD",
+        "postcode": "M7 1RD",
+        "phone": "0161 8392730"
+      },
+      {
+        "name": "2/IRLAM MEDICAL PRACTICE",
+        "addressLine1": "IRLAM MEDICAL CENTRE",
+        "addressLine2": "MACDONALD ROAD",
+        "city": "IRLAM",
+        "postcode": "M44 5LH",
+        "phone": "0161 7752760"
+      },
+      {
+        "name": "SORREL BANK MEDICAL PRACTICE",
+        "addressLine1": "SORREL GROUP PRACTICE",
+        "addressLine2": "23 BOLTON ROAD, SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M6 7HL",
+        "phone": "0161 7361616"
+      },
+      {
+        "name": "THE MOSSLANDS MEDICAL PRACTICE",
+        "addressLine1": "THE MOSSLANDS MED PRAC",
+        "addressLine2": "IRLAM MEDICAL CENTRE",
+        "city": "MACDONALD ROAD, IRLAM",
+        "postcode": "M44 5LH",
+        "phone": "0161 7760737"
+      },
+      {
+        "name": "CLEGGS LANE MEDICAL PRACTICE/129",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "129-131 CLEGGS LANE",
+        "city": "LITTLE HULTON, WORSLEY",
+        "postcode": "M38 9RS",
+        "phone": "0161 7994001"
+      },
+      {
+        "name": "DR LOOMBA AND PARTNERS",
+        "addressLine1": "1ST FL WALKDEN GATEWAY",
+        "addressLine2": "2 SMITH STREET",
+        "city": "WALKDEN",
+        "postcode": "M28 3EZ",
+        "phone": "0161 2117175"
+      },
+      {
+        "name": "1/MONTON MEDICAL PRACTICE",
+        "addressLine1": "MONTON MED CTR,CANAL SIDE",
+        "addressLine2": "MONTON GREEN, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 8AR",
+        "phone": "0161 7890011"
+      },
+      {
+        "name": "ELLENBROOK MEDICAL CENTRE",
+        "addressLine1": "ELLENBROOK MEDICAL CENTRE",
+        "addressLine2": "ELLENBROOK VILLAGE CENTRE",
+        "city": "14 MORSTON CLOSE",
+        "postcode": "M28 1PB",
+        "phone": "0161 7039091"
+      },
+      {
+        "name": "DEARDEN AVENUE MEDICAL PRACTICE",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "1A DEARDON AVENUE",
+        "city": "LITTLE HULTON",
+        "postcode": "M38 9GH",
+        "phone": "0161 7035350"
+      },
+      {
+        "name": "ORCHARD MEDICAL PRACTICE",
+        "addressLine1": "10 LEIGH ROAD",
+        "addressLine2": "BOOTHSTOWN, WORSLEY",
+        "city": "MANCHESTER",
+        "postcode": "M28 1LZ",
+        "phone": "0161 7028579"
+      },
+      {
+        "name": "1/ST ANDREWS MEDICAL PRACTICE",
+        "addressLine1": "ST.ANDREWS MEDICAL CENTRE",
+        "addressLine2": "30 RUSSELL STREET, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0NU",
+        "phone": "0161 7075500"
+      },
+      {
+        "name": "CHERRY MEDICAL PRACTICE",
+        "addressLine1": "LITTLE HULTON CENTRE",
+        "addressLine2": "HAYSBROOK AVENUE",
+        "city": "MANCHESTER",
+        "postcode": "M28 0AY",
+        "phone": "0161 2125380"
+      },
+      {
+        "name": "5/ST ANDREWS MEDICAL PRACTICE",
+        "addressLine1": "ST.ANDREWS MEDICAL CENTRE",
+        "addressLine2": "30 RUSSELL STREET, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0NU",
+        "phone": "0161 7075500"
+      },
+      {
+        "name": "CLARENDON MEDICAL PRACTICE",
+        "addressLine1": "CLARENDON SURGERY",
+        "addressLine2": "PENDLETON GATEWAY",
+        "city": "1 THE BROADWALK, SALFORD",
+        "postcode": "M6 5FX",
+        "phone": "0161 2117373"
+      },
+      {
+        "name": "THE NELSON FOLD MEDICAL PRACTICE",
+        "addressLine1": "PENDLEBURY HEALTH CENTRE",
+        "addressLine2": "659 BOLTON ROAD",
+        "city": "PENDLEBURY",
+        "postcode": "M27 8HP",
+        "phone": "0161 2126585"
+      },
+      {
+        "name": "CORNERSTONE MEDICAL PRACTICE",
+        "addressLine1": "CORNERSTONE MEDICAL PRACT",
+        "addressLine2": "451 LIVERPOOL ST, SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M6 5QQ",
+        "phone": "0161 2124445"
+      },
+      {
+        "name": "1/HIGHER BROUGHTON MEDICAL PRACTICE",
+        "addressLine1": "HIGHER BROUGHTON HTH CTR",
+        "addressLine2": "BEVENDON SQUARE",
+        "city": "SALFORD",
+        "postcode": "M7 4TP",
+        "phone": "0161 2124540"
+      },
+      {
+        "name": "DR DAVIS'S MEDICAL PRACTICE",
+        "addressLine1": "NEWBURY PLACE HEALTH CTR",
+        "addressLine2": "55 RIGBY STREET",
+        "city": "SALFORD",
+        "postcode": "M7 4NX",
+        "phone": "0161 2125050"
+      },
+      {
+        "name": "CHAPEL MEDICAL CENTRE",
+        "addressLine1": "CHAPEL MEDICAL CENTRE",
+        "addressLine2": "220 LIVERPOOL ROAD",
+        "city": "HIGHER IRLAM",
+        "postcode": "M44 6FE",
+        "phone": "0161 7757373"
+      },
+      {
+        "name": "LIMEFIELD ROAD MEDICAL PRACTICE",
+        "addressLine1": "NEWBURY PLACE HEALTH CTR",
+        "addressLine2": "55 RIGBY STREET",
+        "city": "SALFORD",
+        "postcode": "M7 4NX",
+        "phone": "0161 2125050"
+      },
+      {
+        "name": "1/LOWER BROUGHTON MEDICAL PRACTICE",
+        "addressLine1": "LOWER BROUGHTON HTH.CTR.",
+        "addressLine2": "GREAT CLOWES STREET",
+        "city": "SALFORD",
+        "postcode": "M7 1RD",
+        "phone": "0161 2126520"
+      },
+      {
+        "name": "3/LOWER BROUGHTON MEDICAL PRACTICE",
+        "addressLine1": "LOWER BROUGHTON HTH.CTR.",
+        "addressLine2": "GREAT CLOWES STREET",
+        "city": "SALFORD",
+        "postcode": "M7 1RD",
+        "phone": "0161 2126520"
+      },
+      {
+        "name": "(IRLAM) SALFORD CARE CTRS MEDICAL PRACTI",
+        "addressLine1": "SALFORD CARE CTR(IRLAM)",
+        "addressLine2": "125 LIVERPOOL ROAD",
+        "city": "IRLAM",
+        "postcode": "M44 6DP",
+        "phone": "0161 7750000"
+      },
+      {
+        "name": "THE WILLOWS MEDICAL PRACTICE",
+        "addressLine1": "THE WILLOWS",
+        "addressLine2": "LORDS AVENUE",
+        "city": "SALFORD",
+        "postcode": "M5 5JR",
+        "phone": "0161 7362356"
+      },
+      {
+        "name": "3/ST ANDREWS MEDICAL CENTRE",
+        "addressLine1": "ST.ANDREWS MEDICAL CENTRE",
+        "addressLine2": "30 RUSSELL STREET, ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0NU",
+        "phone": "0161 7075500"
+      },
+      {
+        "name": "ECCLES GATEWAY MEDICAL CENTRE",
+        "addressLine1": "ECCLES GATEWAY MED CTR",
+        "addressLine2": "28 BARTON LANE",
+        "city": "ECCLES",
+        "postcode": "M30 0TU",
+        "phone": "0161 2117039"
+      },
+      {
+        "name": "MANCHESTER ROAD EAST MEDICAL PRACTICE",
+        "addressLine1": "152A MANCHESTER ROAD EAST",
+        "addressLine2": "LITTLE HULTON",
+        "city": "MANCHESTER",
+        "postcode": "M38 9LQ",
+        "phone": "0161 7993233"
+      },
+      {
+        "name": "CHILDREN'S SERVICES",
+        "addressLine1": "PENDLETON GATEWAY",
+        "addressLine2": "1 BROADWALK,SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M6 5FX",
+        "phone": "0161 2117386"
+      },
+      {
+        "name": "FAMILY PLANNING CLINIC",
+        "addressLine1": "THE GOODMAN CENTRE",
+        "addressLine2": "LANCEBURNHC CHURCHILLWAY",
+        "city": "SALFORD",
+        "postcode": "M6 5QX",
+        "phone": "0161 2124190"
+      },
+      {
+        "name": "SALFORD ROYAL FOUNDATION TRUST",
+        "addressLine1": "SANDRINGHAM HOUSE",
+        "addressLine2": "CASTLE COURT WINDSOR ST",
+        "city": "SALFORD",
+        "postcode": "M5 4DG",
+        "phone": "0161 2124128"
+      },
+      {
+        "name": "THE WILLOWS/LUSC",
+        "addressLine1": "THE WILLOWS",
+        "addressLine2": "CENTRE FOR HEALTH CARE",
+        "city": "LORDS AVENUE,WEASTE",
+        "postcode": "M5 5JR",
+        "phone": "0161 2124300"
+      },
+      {
+        "name": "2/SALFORD MEDICAL PRACTICE",
+        "addressLine1": "SALFORD MEDICAL CENTRE",
+        "addressLine2": "194-198 LANGWORTHY ROAD",
+        "city": "SALFORD",
+        "postcode": "M6 5PP",
+        "phone": "0161 7458341"
+      },
+      {
+        "name": "MEDLOCK VALE MEDICAL PRACTICE",
+        "addressLine1": "MEDLOCK VALE MED. PRACT.",
+        "addressLine2": "58 ASHTON RD, DROYLSDEN",
+        "city": "MANCHESTER",
+        "postcode": "M43 7BW",
+        "phone": "0161 3701610"
+      },
+      {
+        "name": "MILLGATE HEALTHCARE PARTNERSHIP",
+        "addressLine1": "ANN STREET",
+        "addressLine2": "DENTON",
+        "city": "MANCHESTER",
+        "postcode": "M34 2AJ",
+        "phone": "0161 3203131"
+      },
+      {
+        "name": "DENTON MEDICAL PRACTICE",
+        "addressLine1": "DENTON MEDICAL PRACTICE",
+        "addressLine2": "100 ASHTON RD, DENTON",
+        "city": "MANCHESTER",
+        "postcode": "M34 3JE",
+        "phone": "0161 3208788"
+      },
+      {
+        "name": "CHURCHGATE SURGERY",
+        "addressLine1": "CHURCHGATE SURGERY",
+        "addressLine2": "119 MANCHESTER ROAD",
+        "city": "DENTON",
+        "postcode": "M34 3RA",
+        "phone": "0161 3362114"
+      },
+      {
+        "name": "MARKET STREET MEDICAL PRACTICE",
+        "addressLine1": "76 MARKET STREET",
+        "addressLine2": "DROYLSDEN",
+        "city": "MANCHESTER",
+        "postcode": "M43 6DE",
+        "phone": "0161 3716188"
+      },
+      {
+        "name": "DROYLSDEN MEDICAL CENTRE",
+        "addressLine1": "58 ASHTON ROAD",
+        "addressLine2": "DROYLSDEN",
+        "city": "MANCHESTER",
+        "postcode": "M43 7BW",
+        "phone": "0161 3701122"
+      },
+      {
+        "name": "URMSTON GROUP PRACTICE",
+        "addressLine1": "6 WOODSEND CRESCENT ROAD",
+        "addressLine2": "URMSTON",
+        "city": "MANCHESTER",
+        "postcode": "M41 8AA",
+        "phone": "0161 7559870"
+      },
+      {
+        "name": "DAVYHULME MEDICAL CENTRE",
+        "addressLine1": "130 BROADWAY",
+        "addressLine2": "DAVYHULME,URMSTON",
+        "city": "MANCHESTER",
+        "postcode": "M41 7WJ",
+        "phone": "0161 7485559"
+      },
+      {
+        "name": "PRIMROSE SURGERY",
+        "addressLine1": "59 OLD CROFTS BANK ROAD",
+        "addressLine2": "URMSTON",
+        "city": "MANCHESTER",
+        "postcode": "M41 7AB",
+        "phone": "0161 7472424"
+      },
+      {
+        "name": "BOUNDARY HOUSE MEDICAL CENTRE",
+        "addressLine1": "BOUNDARY HOUSE",
+        "addressLine2": "462 NORTHENDEN ROAD",
+        "city": "SALE",
+        "postcode": "M33 2RH",
+        "phone": "0161 9729999"
+      },
+      {
+        "name": "WASHWAY ROAD MEDICAL CENTRE",
+        "addressLine1": "WASHWAY ROAD MEDICAL CTR.",
+        "addressLine2": "67 WASHWAY ROAD",
+        "city": "SALE",
+        "postcode": "M33 7SS",
+        "phone": "0161 9624354"
+      },
+      {
+        "name": "BODMIN ROAD HEALTH CENTRE",
+        "addressLine1": "BODMIN ROAD HEALTH CENTRE",
+        "addressLine2": "BODMIN ROAD",
+        "city": "SALE",
+        "postcode": "M33 5JH",
+        "phone": "0161 9624625"
+      },
+      {
+        "name": "DELAMERE MEDICAL PRACTICE",
+        "addressLine1": "THE DELAMERE MED PRACT",
+        "addressLine2": "DELAMERE AVENUE",
+        "city": "STRETFORD",
+        "postcode": "M32 0DF",
+        "phone": "0161 8640200"
+      },
+      {
+        "name": "PARTINGTON CENTRAL SURGERY",
+        "addressLine1": "PARTINGTON CENTRAL SURG",
+        "addressLine2": "PARTINGTON HEALTH CENTRE",
+        "city": "CENTRAL ROAD, PARTINGTON",
+        "postcode": "M31 4FY",
+        "phone": "0161 7757032"
+      },
+      {
+        "name": "BROOKS BAR MEDICAL CENTRE",
+        "addressLine1": "THE BROOKS BAR MED.CTR.",
+        "addressLine2": "162-164 CHORLTON ROAD",
+        "city": "OLD TRAFFORD",
+        "postcode": "M16 7WW",
+        "phone": "0161 2267777"
+      },
+      {
+        "name": "FIRSWAY HEALTH CENTRE",
+        "addressLine1": "121 FIRSWAY",
+        "addressLine2": "SALE",
+        "city": "CHESHIRE",
+        "postcode": "M33 4BR",
+        "phone": "0161 9050310"
+      },
+      {
+        "name": "NORRIS ROAD SURGERY",
+        "addressLine1": "THE NORRIS ROAD SURGERY",
+        "addressLine2": "356 NORRIS ROAD",
+        "city": "SALE",
+        "postcode": "M33 2RL",
+        "phone": "0161 9625464"
+      },
+      {
+        "name": "PARTINGTON FAMILY PRACTICE",
+        "addressLine1": "PARTINGTON HEALTH CENTRE",
+        "addressLine2": "CENTRAL ROAD",
+        "city": "PARTINGTON",
+        "postcode": "M31 4FL",
+        "phone": "0161 7757033"
+      },
+      {
+        "name": "ALI MEDICAL PRACTICE",
+        "addressLine1": "SEYMOUR GROVE HEALTH CTR",
+        "addressLine2": "70 SEYMOUR GROVE",
+        "city": "OLD TRAFFORD",
+        "postcode": "M16 0LW",
+        "phone": "0161 8721870"
+      },
+      {
+        "name": "FLIXTON ROAD MEDICAL CENTRE",
+        "addressLine1": "FLIXTON ROAD MEDICAL CTR",
+        "addressLine2": "132 FLIXTON ROAD",
+        "city": "URMSTON",
+        "postcode": "M41 5BG",
+        "phone": "0161 7482021"
+      },
+      {
+        "name": "DERBYSHIRE ROAD SOUTH SURGERY",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "12 DERBYSHIRE ROAD SOUTH",
+        "city": "SALE",
+        "postcode": "M33 3JP",
+        "phone": "0161 9733499"
+      },
+      {
+        "name": "CONWAY ROAD MEDICAL PRACTICE",
+        "addressLine1": "CONWAY ROAD MED PRACTICE",
+        "addressLine2": "80A CONWAY ROAD",
+        "city": "SALE",
+        "postcode": "M33 2TB",
+        "phone": "0161 9731151"
+      },
+      {
+        "name": "GORSE HILL MEDICAL CENTRE",
+        "addressLine1": "GORSE HILL MEDICAL CTR",
+        "addressLine2": "879 CHESTER ROAD",
+        "city": "STRETFORD",
+        "postcode": "M32 0RN",
+        "phone": "0161 8642496"
+      },
+      {
+        "name": "OLD TRAFFORD MEDICAL PRACTICE",
+        "addressLine1": "SEYMOUR GROVE HEALTH CTR.",
+        "addressLine2": "70 SEYMOUR GROVE",
+        "city": "OLD TRAFFORD",
+        "postcode": "M16 0LW",
+        "phone": "0161 8487563"
+      },
+      {
+        "name": "GLOUCESTER HOUSE MEDICAL CENTRE",
+        "addressLine1": "GLOUCESTER HOUSE MED.CTR.",
+        "addressLine2": "17 STATION ROAD, URMSTON",
+        "city": "MANCHESTER",
+        "postcode": "M41 9JS",
+        "phone": "0161 7487115"
+      },
+      {
+        "name": "LOSTOCK MEDICAL CENTRE",
+        "addressLine1": "431 BARTON ROAD",
+        "addressLine2": "STRETFORD",
+        "city": "MANCHESTER",
+        "postcode": "M32 9PA",
+        "phone": "0161 8651100"
+      },
+      {
+        "name": "NORTH TRAFFORD GROUP PRACTICE",
+        "addressLine1": "NORTH TRAFFORD GROUP PRAC",
+        "addressLine2": "864/866 CHESTER ROAD",
+        "city": "STRETFORD",
+        "postcode": "M32 0PA",
+        "phone": "0161 8655556"
+      },
+      {
+        "name": "SEYMOUR GROVE HEALTH CENTRE",
+        "addressLine1": "SEYMOUR GROVE HEALTH CTR.",
+        "addressLine2": "70 SEYMOUR GROVE",
+        "city": "OLD TRAFFORD",
+        "postcode": "M16 0LW",
+        "phone": "0161 8779230"
+      },
+      {
+        "name": "TRAFFORD NORTH ED SERVICE",
+        "addressLine1": "28 CROFTS BANK ROAD",
+        "addressLine2": "URMSTON",
+        "city": "MANCHESTER",
+        "postcode": "M41 0UH",
+        "phone": "0161 2029850"
+      },
+      {
+        "name": "SIVAKUMAR & PARTNER",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "1 COLDALHURST LANE,ASTLEY",
+        "city": "TYLDESLEY",
+        "postcode": "M29 7BS",
+        "phone": "01942 878711"
+      },
+      {
+        "name": "ELLIOTT STREET SURGERY",
+        "addressLine1": "145 ELLIOTT STREET",
+        "addressLine2": "TYLDESLEY",
+        "city": "MANCHESTER",
+        "postcode": "M29 8FL",
+        "phone": "01942 483555"
+      },
+      {
+        "name": "DR KHATRI CP",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "HIGH STREET, TYLDESLEY",
+        "city": "NR. MANCHESTER",
+        "postcode": "M29 8AL",
+        "phone": "01942 882950"
+      },
+      {
+        "name": "DR CHAN",
+        "addressLine1": "SEVEN BROOKS MEDICAL CTR.",
+        "addressLine2": "21 CHURCH ST, ATHERTON",
+        "city": "MANCHESTER",
+        "postcode": "M46 9DE",
+        "phone": "01942 884026"
+      },
+      {
+        "name": "DR ANDERSON & DR AHMED",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "239 MOSLEY COMMON ROAD",
+        "city": "BOOTHSTOWN, WORSLEY",
+        "postcode": "M28 1BZ",
+        "phone": "01942 483828"
+      },
+      {
+        "name": "DR S N SHARMA AND PARTNER",
+        "addressLine1": "ATHERTON HEALTH CENTRE",
+        "addressLine2": "NELSON STREET, ATHERTON",
+        "city": "MANCHESTER",
+        "postcode": "M46 0LE",
+        "phone": "01942 481080"
+      },
+      {
+        "name": "MEADOWVIEW SURGERY",
+        "addressLine1": "ORMEROD HOUSE",
+        "addressLine2": "ATHERTON HEALTH CENTRE",
+        "city": "NELSON STREET",
+        "postcode": "M46 0LE",
+        "phone": "01942 481060"
+      },
+      {
+        "name": "HATIKAKOTY N",
+        "addressLine1": "BEE FOLD MEDICAL CENTRE",
+        "addressLine2": "BEE FOLD LANE",
+        "city": "ATHERTON",
+        "postcode": "M46 0BD",
+        "phone": "01942 876011"
+      },
+      {
+        "name": "DR VASANTH",
+        "addressLine1": "ATHERTON HEALTH CENTRE",
+        "addressLine2": "NELSON STREET, ATHERTON",
+        "city": "MANCHESTER",
+        "postcode": "M46 0LE",
+        "phone": "01942 481040"
+      },
+      {
+        "name": "ASTLEY GENERAL PRACTICE",
+        "addressLine1": "ASTLEY GENERAL PRACTICE",
+        "addressLine2": "391A MANCHESTER RD,ASTLEY",
+        "city": "MANCHESTER",
+        "postcode": "M29 7BY",
+        "phone": "01942 876339"
+      },
+      {
+        "name": "KHATRI K",
+        "addressLine1": "THE SURGERY",
+        "addressLine2": "10 HIGHER GREEN LANE",
+        "city": "ASTLEY, TYLDESLEY",
+        "postcode": "M29 7HG",
+        "phone": "01942 883794"
+      },
+      {
+        "name": "SEVEN BROOKS PRACTICE",
+        "addressLine1": "7 BROOKS MEDICAL CENTRE",
+        "addressLine2": "21 CHURCH ST, ATHERTON",
+        "city": "MANCHESTER",
+        "postcode": "M46 9DE",
+        "phone": "01942 483250"
+      },
+      {
+        "name": "ST ANN'S HOSPICE/PAL CARE",
+        "addressLine1": "ST ANN'S HOSPICE",
+        "addressLine2": "PEEL LANE,LITTLE HULTON",
+        "city": "WORSLEY",
+        "postcode": "M28 0FE",
+        "phone": "0161 7028181"
+      },
+      {
+        "name": "MEADOWBROOK/LDP",
+        "addressLine1": "MEADOWBROOK",
+        "addressLine2": "DEPARTMENT OF",
+        "city": "PSYCHOLOGICAL MEDICINE",
+        "postcode": "M6 8HG",
+        "phone": "0161 7723725"
+      },
+      {
+        "name": "MONET LODGE",
+        "addressLine1": "67 CAVENDISH ROAD",
+        "addressLine2": "WITHINGTON",
+        "city": "MANCHESTER",
+        "postcode": "M20 1JG",
+        "phone": "0161 4381750"
+      },
+      {
+        "name": "GTD HEALTHCARE GP SERVICE OOH",
+        "addressLine1": "THE FORUM, TAMESIDE B/PK",
+        "addressLine2": "WINDMILL LANE",
+        "city": "DENTON",
+        "postcode": "M34 3QS",
+        "phone": "0161 9342828"
+      },
+      {
+        "name": "THE PARKS MEDICAL PRACT.",
+        "addressLine1": "THE PARKS MEDICAL PRACT.",
+        "addressLine2": "PARKSIDE SURGERY",
+        "city": "CLIFFE WOODS",
+        "postcode": "ME3 8HX",
+        "phone": "01634 221410"
+      },
+      {
+        "name": "SALFORD GP OUT OF HOURS",
+        "addressLine1": "HOPE HOSPITAL,STOTT LANE",
+        "addressLine2": "SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M6 8HD",
+        "phone": "0161 2060425"
+      },
+      {
+        "name": "HOMELESS FAMILIES HEALTH VISITORS",
+        "addressLine1": "CHORLTON HEALTH CENTRE",
+        "addressLine2": "1 NICOLAS ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M21 9NJ",
+        "phone": "0161 8602907"
+      },
+      {
+        "name": "INTERMEDIATE CARE",
+        "addressLine1": "LONGSIGHT HEALTH CENTRE",
+        "addressLine2": "526-528 STOCKPORT ROAD",
+        "city": "LONGSIGHT",
+        "postcode": "M13 0RR",
+        "phone": "0161 2564488"
+      },
+      {
+        "name": "ST.JOHN'S CARE HOME",
+        "addressLine1": "SUE RYDER CARE",
+        "addressLine2": "ST.JOHN'S ROAD",
+        "city": "MOGGERHANGER",
+        "postcode": "MK44 3RJ",
+        "phone": "01767 640622"
+      },
+      {
+        "name": "GP FOR HOMELESS & ROOTLESS",
+        "addressLine1": "12 PREBEND STREET",
+        "addressLine2": "BEDFORD",
+        "city": "",
+        "postcode": "MK40 1QW",
+        "phone": "01234 365955"
+      },
+      {
+        "name": "GOLDINGTON ROAD SURGERY",
+        "addressLine1": "12 GOLDINGTON ROAD",
+        "addressLine2": "",
+        "city": "BEDFORD",
+        "postcode": "MK40 3NE",
+        "phone": "01234 355588"
+      },
+      {
+        "name": "SUBST MISUSE TMENT SERV",
+        "addressLine1": "SUBST MISUSE TMENT SERV",
+        "addressLine2": "105-107 TAVISTOCK STREET",
+        "city": "BEDFORD",
+        "postcode": "MK40 2RR",
+        "phone": "01234 352220"
+      },
+      {
+        "name": "SALFORD HEALTH MATTERS",
+        "addressLine1": "SALFORD HEALTH MATTERS",
+        "addressLine2": "WILLOW TREE H L C",
+        "city": "94 LITTLETON ROAD,SALFORD",
+        "postcode": "M7 3SE",
+        "phone": "0161 2125815"
+      },
+      {
+        "name": "ST.MARY'S ISLAND SURGERY",
+        "addressLine1": "EDGEWAY, ISLAND WAY WEST",
+        "addressLine2": "ST.MARY'S ISLAND",
+        "city": "CHATHAM",
+        "postcode": "ME4 3EP",
+        "phone": "01634 890712"
+      },
+      {
+        "name": "CARDIOLOGY SERVICE",
+        "addressLine1": "GLOUCESTER HOUSE",
+        "addressLine2": "17 STATION ROAD",
+        "city": "URMSTON",
+        "postcode": "M41 9JS",
+        "phone": "0161 7487115"
+      },
+      {
+        "name": "TRAFFORD DRUG SERVICE",
+        "addressLine1": "454 CHESTER ROAD",
+        "addressLine2": "OLD TRAFFORD",
+        "city": "MANCHESTER",
+        "postcode": "M16 9HD",
+        "phone": "0161 7868250"
+      },
+      {
+        "name": "VIOLENT PATIENT ENHANCED SERVICE 1",
+        "addressLine1": "WHITLEY ROAD MEDICAL CTR",
+        "addressLine2": "COLLYHURST",
+        "city": "MANCHESTER",
+        "postcode": "M40 7QH",
+        "phone": "0161 2054407"
+      },
+      {
+        "name": "VIOLENT PATIENT ENHANCED SERVICE 2",
+        "addressLine1": "WHITLEY ROAD MEDICAL CTR",
+        "addressLine2": "1 WHITLEY ROAD",
+        "city": "COLLYHURST",
+        "postcode": "M40 7QH",
+        "phone": "0161 8612500"
+      },
+      {
+        "name": "THE VILLAGE MEDICAL CTR",
+        "addressLine1": "THE VILLAGE MED CTR",
+        "addressLine2": "KINGSWOOD WAY, GT DENHAM",
+        "city": "BEDFORD",
+        "postcode": "MK40 4GH",
+        "phone": "01234 244000"
+      },
+      {
+        "name": "ANCOATS COMMUNITY CLINIC",
+        "addressLine1": "ANCOATS PRIMARY CARE CTRE",
+        "addressLine2": "OLD MILL STREET,ANCOATS",
+        "city": "MANCHESTER",
+        "postcode": "M4 6EE",
+        "phone": "0161 2741640"
+      },
+      {
+        "name": "WOOTTON VALE HEALTHY LIVING CENTRE",
+        "addressLine1": "WOOTTON VALE HLTH LIV CTR",
+        "addressLine2": "FIELDS ROAD, WOOTTON",
+        "city": "BEDFORD",
+        "postcode": "MK43 9JJ",
+        "phone": "01234 762500"
+      },
+      {
+        "name": "SHORTSTOWN MEDICAL CENTRE",
+        "addressLine1": "2 QUANTRELLE COURT",
+        "addressLine2": "SHORTSTOWN",
+        "city": "BEDFORDSHIRE",
+        "postcode": "MK42 0UF",
+        "phone": "01234 743000"
+      },
+      {
+        "name": "HEART FAILURE CLINIC",
+        "addressLine1": "7-8 AMBLEY GREEN",
+        "addressLine2": "BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0NJ",
+        "phone": "01634 382780"
+      },
+      {
+        "name": "DIABETES CLINIC",
+        "addressLine1": "7-8 AMBLEY GREEN",
+        "addressLine2": "BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0NJ",
+        "phone": "01634 382780"
+      },
+      {
+        "name": "BEDFORD OOH",
+        "addressLine1": "BEDFORD HOSPITAL",
+        "addressLine2": "KEMPSTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 9DJ",
+        "phone": "01234 792138"
+      },
+      {
+        "name": "PCEC",
+        "addressLine1": "C/O CMMCH",
+        "addressLine2": "OUTPATIENT DEPT,OXFORD RD",
+        "city": "MANCHESTER",
+        "postcode": "M13 9WL",
+        "phone": "0161 2765193"
+      },
+      {
+        "name": "DOCTORS' SURGERY",
+        "addressLine1": "DOCTORS' SURGERY",
+        "addressLine2": "CLOUGH ST, MIDDLETON",
+        "city": "MANCHESTER",
+        "postcode": "M24 2YJ",
+        "phone": "0161 6544103"
+      },
+      {
+        "name": "WISDOM HOSPICE",
+        "addressLine1": "HIGH BANK",
+        "addressLine2": "",
+        "city": "ROCHESTER",
+        "postcode": "ME1 2NU",
+        "phone": "01634 830456"
+      },
+      {
+        "name": "TIER 2 SERVICES (NORTH)",
+        "addressLine1": "MANCHESTER PCT",
+        "addressLine2": "NEWTON SILK MILL",
+        "city": "HOLYOAK STREET,MANCHESTER",
+        "postcode": "M40 1HA",
+        "phone": "0161 2199416"
+      },
+      {
+        "name": "COMMUNITY GERIATRICIANS",
+        "addressLine1": "WYTHENSHAWE HTH CARE CTR",
+        "addressLine2": "STANCLIFFE ROAD",
+        "city": "WYTHENSHAWE",
+        "postcode": "M22 4PJ",
+        "phone": "0161 9469406"
+      },
+      {
+        "name": "DR DN VENKATACHALEM PRACTICE",
+        "addressLine1": "HOLLYBANK SURGERY",
+        "addressLine2": "31 LONDON ROAD",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 1NQ",
+        "phone": "01795 427381"
+      },
+      {
+        "name": "GTD HEALTHCARE GP SERVICE OOH",
+        "addressLine1": "THE FORUM, TAMESIDE B/PK",
+        "addressLine2": "WINDMILL LANE",
+        "city": "DENTON",
+        "postcode": "M34 3QS",
+        "phone": "0161 9342828"
+      },
+      {
+        "name": "MCR PICCADILLY NHS WIC",
+        "addressLine1": "1-3 GATEWAY HOUSE",
+        "addressLine2": "PICCADILLY SOUTH",
+        "city": "MANCHESTER",
+        "postcode": "M1 2GH",
+        "phone": "0161 2332525"
+      },
+      {
+        "name": "BUCCLEUCH LODGE ICF",
+        "addressLine1": "ELIZABETH SLINGER ROAD",
+        "addressLine2": "WEST DIDSBURY",
+        "city": "MANCHESTER",
+        "postcode": "M20 2XA",
+        "phone": "0161 6113932"
+      },
+      {
+        "name": "SALFORD DRUG TEAM",
+        "addressLine1": "1 KING STREET",
+        "addressLine2": "ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0AE",
+        "phone": "0161 7877343"
+      },
+      {
+        "name": "MP VICTORIA MILL",
+        "addressLine1": "VICTORIA MILL HEALTH CTR",
+        "addressLine2": "10 LOWER VICKERS STREET",
+        "city": "MANCHESTER",
+        "postcode": "M40 7LH",
+        "phone": "0161 8612511"
+      },
+      {
+        "name": "TRAFFORD LD SERVICE",
+        "addressLine1": "3RD FLOOR WATERSIDE",
+        "addressLine2": "SALE",
+        "city": "MANCHESTER",
+        "postcode": "M33 7ZF",
+        "phone": "0161 9125739"
+      },
+      {
+        "name": "CARDIOLOGY INVICTA",
+        "addressLine1": "SNODLAND MEDICAL CENTRE",
+        "addressLine2": "CATTS ALLEY",
+        "city": "SNODLAND",
+        "postcode": "ME6 5SN",
+        "phone": "01634 240295"
+      },
+      {
+        "name": "GPSI DERMATOLOGY",
+        "addressLine1": "ENHANCED SERVICE CENTRE",
+        "addressLine2": "3 KIMBOLTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2NT",
+        "phone": "01234 897418"
+      },
+      {
+        "name": "EAR & NOSE CLINIC",
+        "addressLine1": "LONGSITE HEALTH CENTRE",
+        "addressLine2": "C/O AUDIOLOGY DEPT",
+        "city": "MOSS SIDE H/C, MANCHESTER",
+        "postcode": "M14 4GP",
+        "phone": "0161 2324214"
+      },
+      {
+        "name": "DRUG MISUSE NES",
+        "addressLine1": "DURNFORD MEDICAL CENTRE",
+        "addressLine2": "113 LONG ST",
+        "city": "MIDDLETON",
+        "postcode": "M24 6DL",
+        "phone": "0161 6432011"
+      },
+      {
+        "name": "ORTHOPAEDIC CLINICAL ASSESS",
+        "addressLine1": "MEDWAY MARITIME HOSPITAL",
+        "addressLine2": "WINDMILL ROAD",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 5NY",
+        "phone": "01634 833961"
+      },
+      {
+        "name": "ENT CLINIC",
+        "addressLine1": "ENT CLINIC",
+        "addressLine2": "AMPTHILL HC",
+        "city": "OLIVER ST, AMPTHILL",
+        "postcode": "MK45 2SB",
+        "phone": "01525 631200"
+      },
+      {
+        "name": "WOUND CARE CLINIC",
+        "addressLine1": "ROCHESTER COMM HEALTHY",
+        "addressLine2": "LIVING CENTRE,DELCE ROAD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 2EL",
+        "phone": "01634 334202"
+      },
+      {
+        "name": "TURNING POINT MEDWAY",
+        "addressLine1": "KCA (UK), KINGSLEY HOUSE",
+        "addressLine2": "37-45 BALMORAL ROAD",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 4PF",
+        "phone": "01634 571658"
+      },
+      {
+        "name": "KCA SHARED CARE",
+        "addressLine1": "MILL HOUSE",
+        "addressLine2": "MILL STREET",
+        "city": "MAIDSTONE",
+        "postcode": "ME15 6XH",
+        "phone": "01622 690944"
+      },
+      {
+        "name": "HORIZON HEALTHCARE GYNAECOLOGY SERVICE",
+        "addressLine1": "WOOTTON VALE",
+        "addressLine2": "HEALTHY LIVING CENTRE",
+        "city": "WOOTTON",
+        "postcode": "MK43 9JJ",
+        "phone": "01234 762500"
+      },
+      {
+        "name": "NON PRACTICE PRESCRIBERS",
+        "addressLine1": "NEW CENTURY HOUSE",
+        "addressLine2": "WINDMILL LANE",
+        "city": "DENTON",
+        "postcode": "M34 2GP",
+        "phone": "0161 3045300"
+      },
+      {
+        "name": "GTD HEALTHCARE GP SERVICE OOH",
+        "addressLine1": "THE FORUM, TAMESIDE B/PK",
+        "addressLine2": "WINDMILL LANE",
+        "city": "DENTON",
+        "postcode": "M34 3QS",
+        "phone": "0161 9342828"
+      },
+      {
+        "name": "BURY YNG PEOPLE'S ENH. SERV",
+        "addressLine1": "EARLY BREAK,SENATOR HOUSE",
+        "addressLine2": "7-11 BURY ROAD",
+        "city": "RADCLIFFE",
+        "postcode": "M26 2UG",
+        "phone": "0161 7233880"
+      },
+      {
+        "name": "INTERMEDIATE CARE",
+        "addressLine1": "GRD FLR SANDRINGHAM HSE",
+        "addressLine2": "WINDSOR STREET",
+        "city": "SALFORD",
+        "postcode": "M5 4DG",
+        "phone": "0161 2125840"
+      },
+      {
+        "name": "MUSCULOSKELETAL TRIAGE & TREATMENT SERV",
+        "addressLine1": "ENHANCED SERVICE CENTRE",
+        "addressLine2": "3 KIMBOLTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2NT",
+        "phone": "01234 792217"
+      },
+      {
+        "name": "TRAFFORD HEALTH CENTRE",
+        "addressLine1": "TRAFFORD HEALTH CENTRE",
+        "addressLine2": "TRAFFORD GH,MOORSIDE ROAD",
+        "city": "DAVYHULME",
+        "postcode": "M41 5SL",
+        "phone": "0161 7474975"
+      },
+      {
+        "name": "WMB GPSI MSK",
+        "addressLine1": "WEST MID BEDS HEALTH",
+        "addressLine2": "C/O DR LING & PTRS",
+        "city": "HIGHLANDS, FLITWICK",
+        "postcode": "MK45 1DZ",
+        "phone": "0844 4996928"
+      },
+      {
+        "name": "WMB COMMUNITY OPHTHALMOLOGY",
+        "addressLine1": "WEST MID BEDS HEALTH",
+        "addressLine2": "C/O OLIVER STREET SURGY",
+        "city": "AMPTHILL",
+        "postcode": "MK45 2SB",
+        "phone": "01525 631395"
+      },
+      {
+        "name": "DURNFORD DERMATOLOGY CATS",
+        "addressLine1": "DURNFORD MEDICAL CENTRE",
+        "addressLine2": "113 LONG STREET",
+        "city": "MIDDLETON",
+        "postcode": "M24 6DL",
+        "phone": "0161 6546149"
+      },
+      {
+        "name": "INTERMEDIATE CARE",
+        "addressLine1": "HENESY HOUSE",
+        "addressLine2": "1 WHITLEY ROAD",
+        "city": "COLLYHURST",
+        "postcode": "M40 7QH",
+        "phone": "0161 2054407"
+      },
+      {
+        "name": "GORTON PARKS INTERMEDIATE CARE UNIT",
+        "addressLine1": "DELAMERE UNIT",
+        "addressLine2": "121 TAYLOR STREET,GORTON",
+        "city": "MANCHESTER",
+        "postcode": "M18 8DF",
+        "phone": "0161 2303010"
+      },
+      {
+        "name": "BEDFORDSHIRE MSK SERVICE",
+        "addressLine1": "ENHANCED SERVICE CENTRE",
+        "addressLine2": "3 KIMBOLTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2NT",
+        "phone": "01234 897440"
+      },
+      {
+        "name": "INTRAHEALTH TYLDESLEY",
+        "addressLine1": "TYLDESLEY HEALTH CENTRE",
+        "addressLine2": "POPLAR STREET",
+        "city": "TYLDESLEY",
+        "postcode": "M29 8AX",
+        "phone": "01942 481680"
+      },
+      {
+        "name": "CHARLESTOWN MD",
+        "addressLine1": "CHARLESTOWN MD",
+        "addressLine2": "CHARLESTOWN RD, BLACKLEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 7ED",
+        "phone": "0161 7412060"
+      },
+      {
+        "name": "NURSING HOME PROJECT TEAM (SOUTH)",
+        "addressLine1": "WYTHENSHAWE H/CARE CENTRE",
+        "addressLine2": "1 STANCLIFFE ROAD",
+        "city": "WYTHENSHAWE",
+        "postcode": "M22 4PJ",
+        "phone": "0161 9468258"
+      },
+      {
+        "name": "PUTNOE MEDICAL CENTRE WALK IN CENTRE",
+        "addressLine1": "93 QUEENS DRIVE",
+        "addressLine2": "PUTNOE",
+        "city": "BEDFORD",
+        "postcode": "MK41 9JE",
+        "phone": "01234 292969"
+      },
+      {
+        "name": "GMIS CATS",
+        "addressLine1": "3RD FLOOR",
+        "addressLine2": "111 PICCADILLY",
+        "city": "MANCHESTER",
+        "postcode": "M1 2HY",
+        "phone": "0161 2371493"
+      },
+      {
+        "name": "DMC WALDERSLADE SURGERY",
+        "addressLine1": "LAND AT GREENACRES SCHOOL",
+        "addressLine2": "WALDERSLADE ROAD",
+        "city": "CHATHAM",
+        "postcode": "ME5 0LP",
+        "phone": "01634 661140"
+      },
+      {
+        "name": "DULWICH HEALTH MEDICAL CENTRE",
+        "addressLine1": "HEALTHY LIVING CENTRE",
+        "addressLine2": "BALMORAL GARDENS",
+        "city": "GILLINGHAM",
+        "postcode": "ME7 4PN",
+        "phone": "01634 583410"
+      },
+      {
+        "name": "MCH PENTAGON",
+        "addressLine1": "BOOTS, 30-34 WILMOT SQ",
+        "addressLine2": "PENTAGON CENTRE",
+        "city": "CHATHAM",
+        "postcode": "ME4 4BB",
+        "phone": "01634 810195"
+      },
+      {
+        "name": "COLLEGE HEALTH STERLING",
+        "addressLine1": "STERLING HOUSE",
+        "addressLine2": "SECOND AVENUE, LUTON",
+        "city": "CHATHAM",
+        "postcode": "ME4 5AU",
+        "phone": "01634 810170"
+      },
+      {
+        "name": "TURNING POINT MEDWAY",
+        "addressLine1": "37-45 BALMORAL ROAD",
+        "addressLine2": "GILLINGHAM",
+        "city": "KENT",
+        "postcode": "ME7 4PF",
+        "phone": "01634 571658"
+      },
+      {
+        "name": "SHEPPEY NHS HEALTHCARE CENTRE",
+        "addressLine1": "SHEPPEY COMMUNITY HOSP",
+        "addressLine2": "PLOVER RD,MINSTER ON SEA",
+        "city": "SHEERNESS",
+        "postcode": "ME12 3LT",
+        "phone": "01795 879199"
+      },
+      {
+        "name": "SIMPSON MEDICAL PRACTICE",
+        "addressLine1": "SIMPSON MEDICAL PRACTICE",
+        "addressLine2": "361 MOSTON LANE, MOSTON",
+        "city": "MANCHESTER",
+        "postcode": "M40 9NB",
+        "phone": "0161 2035550"
+      },
+      {
+        "name": "WINCHESTER HOUSE",
+        "addressLine1": "C/O THE ESPLANADE SURGERY",
+        "addressLine2": "1 THE ESPLANADE",
+        "city": "ROCHESTER",
+        "postcode": "ME1 1QE",
+        "phone": "01634 843142"
+      },
+      {
+        "name": "GTD HEALTHCARE GP SERVICE OOH",
+        "addressLine1": "THE FORUM, TAMESIDE B/PK",
+        "addressLine2": "WINDMILL LANE",
+        "city": "DENTON",
+        "postcode": "M34 3QS",
+        "phone": "0161 9342828"
+      },
+      {
+        "name": "BLACKFRIARS",
+        "addressLine1": "FRESH TOWERS",
+        "addressLine2": "138 CHAPEL ST,SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M3 6AF",
+        "phone": "0161 8194790"
+      },
+      {
+        "name": "CARE HOMES MEDICAL PRACTICE",
+        "addressLine1": "GRD FLR SANDRINGHAM HSE",
+        "addressLine2": "WINDSOR STREET",
+        "city": "SALFORD",
+        "postcode": "M5 4DG",
+        "phone": "0161 2125840"
+      },
+      {
+        "name": "SALFORD DRUG SERVICE",
+        "addressLine1": "6 ACTON SQUARE",
+        "addressLine2": "THE CRESCENT, SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M5 4NY",
+        "phone": "0161 7457227"
+      },
+      {
+        "name": "THE RLC SURGERY",
+        "addressLine1": "RADCLIFFE PCC",
+        "addressLine2": "69 CHURCH STREET WEST",
+        "city": "RADCLIFFE",
+        "postcode": "M26 2SP",
+        "phone": "0161 7242080"
+      },
+      {
+        "name": "DROYLSDEN MEDICAL PRACTICE",
+        "addressLine1": "1-3 ALBION DRIVE",
+        "addressLine2": "DROYLSDEN",
+        "city": "MANCHESTER",
+        "postcode": "M43 7NP",
+        "phone": "0161 3427777"
+      },
+      {
+        "name": "GUIDE BRIDGE MEDICAL PRACTICE",
+        "addressLine1": "GUIDE LANE",
+        "addressLine2": "AUDENSHAW",
+        "city": "MANCHESTER",
+        "postcode": "M34 5HY",
+        "phone": "0161 3442609"
+      },
+      {
+        "name": "DERMATOLOGY CATS",
+        "addressLine1": "THE VALLANCE",
+        "addressLine2": "BRUNSWICK STREET",
+        "city": "BRUNSWICK",
+        "postcode": "M13 9UJ",
+        "phone": "0161 2741552"
+      },
+      {
+        "name": "THE HEIGHT GENERAL PRACTICE",
+        "addressLine1": "THE SURGERY,355 BOLTON RD",
+        "addressLine2": "SALFORD",
+        "city": "MANCHESTER",
+        "postcode": "M6 7NJ",
+        "phone": "0161 7365282"
+      },
+      {
+        "name": "MIDDLETON HEALTH CENTRE",
+        "addressLine1": "THE HEALTH CENTRE UNIT F1",
+        "addressLine2": "MIDDLETON SHOPPING CENTRE",
+        "city": "MIDDLETON",
+        "postcode": "M24 4EL",
+        "phone": "0161 6557434"
+      },
+      {
+        "name": "MK URGENT CARE SERVICES OOH",
+        "addressLine1": "URGENT C CTR,HOSP CAMPUS",
+        "addressLine2": "STANDING WAY, EAGLESTONE",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 5NG",
+        "phone": "01908 303030"
+      },
+      {
+        "name": "CITY HEALTH CENTRE",
+        "addressLine1": "CITY HEALTH CENTRE",
+        "addressLine2": "2ND FL, 32 MARKET ST",
+        "city": "MANCHESTER",
+        "postcode": "M1 1PL",
+        "phone": "0161 8396227"
+      },
+      {
+        "name": "HAWTHORN MC",
+        "addressLine1": "UNIT K FALLOWFIELD R PK",
+        "addressLine2": "BIRCHFIELDS ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M14 6FS",
+        "phone": "0161 2206080"
+      },
+      {
+        "name": "BROUGHTON GATE HEALTH CENTRE",
+        "addressLine1": "GLYN VALLEY PLACE",
+        "addressLine2": "BROUGHTON",
+        "city": "MILTON KEYNES",
+        "postcode": "MK10 7EF",
+        "phone": "01908 874444"
+      },
+      {
+        "name": "HEART OF KENT HOSPICE",
+        "addressLine1": "PRESTON HALL",
+        "addressLine2": "",
+        "city": "AYLESFORD",
+        "postcode": "ME20 7PU",
+        "phone": "01622 792200"
+      },
+      {
+        "name": "NEW BANK HEALTH",
+        "addressLine1": "339 STOCKPORT ROAD",
+        "addressLine2": "LONGSIGHT",
+        "city": "MANCHESTER",
+        "postcode": "M12 4JE",
+        "phone": "0161 2775600"
+      },
+      {
+        "name": "DERMATOLOGY INVICTA",
+        "addressLine1": "AYLESFORD SURGERY",
+        "addressLine2": "ADMIRAL MOORE DRIVE",
+        "city": "AYLESFORD",
+        "postcode": "ME20 7SE",
+        "phone": "01622 885888"
+      },
+      {
+        "name": "CONSULTANT SERVICE",
+        "addressLine1": "WALKDEN GATEWAY",
+        "addressLine2": "2 SMITH STREET",
+        "city": "WALKDEN",
+        "postcode": "M28 3EZ",
+        "phone": "0161 2127104"
+      },
+      {
+        "name": "COMPLEX CARE TEAM (BEDOC)",
+        "addressLine1": "ELSTOW MEDICAL CENTRE",
+        "addressLine2": "ABBEYFIELDS",
+        "city": "BEDFORD",
+        "postcode": "MK42 9GP",
+        "phone": "01234 889088"
+      },
+      {
+        "name": "ADULT ADHD CLINIC",
+        "addressLine1": "BOUGHTON MEDICAL CENTRE",
+        "addressLine2": "60 THE STREET, BOUGHTON",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 9AS",
+        "phone": "01227 751217"
+      },
+      {
+        "name": "OUTREACH SERVICE NH / RH",
+        "addressLine1": "PCC,69 CHURCH STREET WEST",
+        "addressLine2": "RADCLIFFE",
+        "city": "MANCHESTER",
+        "postcode": "M26 2SP",
+        "phone": "0161 7242040"
+      },
+      {
+        "name": "PALLIATIVE CARE CLINIC",
+        "addressLine1": "PENDLETON GATEWAY",
+        "addressLine2": "1 BROADWALK",
+        "city": "SALFORD",
+        "postcode": "M6 5FX",
+        "phone": "0161 2060903"
+      },
+      {
+        "name": "BLACKTHORN PAIN CLINIC",
+        "addressLine1": "BLACKTHORN MEDICAL CENTRE",
+        "addressLine2": "ST ANDREW'S ROAD, BARMING",
+        "city": "MAIDSTONE",
+        "postcode": "ME16 9AN",
+        "phone": "01622 726277"
+      },
+      {
+        "name": "HMP MANCHESTER",
+        "addressLine1": "SOUTHALL STREET",
+        "addressLine2": "",
+        "city": "MANCHESTER",
+        "postcode": "M60 9AH",
+        "phone": "0161 8175834"
+      },
+      {
+        "name": "HMP SWALESIDE",
+        "addressLine1": "HMP SWALESIDE",
+        "addressLine2": "BRABAZON ROAD, EASTCHURCH",
+        "city": "SHEERNESS",
+        "postcode": "ME12 4AX",
+        "phone": "01795 804048"
+      },
+      {
+        "name": "HMP STANDFORD HILL",
+        "addressLine1": "HMP STANDFORD HILL",
+        "addressLine2": "CHURCH ROAD, EASTCHURCH",
+        "city": "SHEERNESS",
+        "postcode": "ME12 4AA",
+        "phone": "01795 884564"
+      },
+      {
+        "name": "HMP ELMLEY",
+        "addressLine1": "HMP ELMLEY",
+        "addressLine2": "CHURCH ROAD, EASTCHURCH",
+        "city": "SHEERNESS",
+        "postcode": "ME12 4DZ",
+        "phone": "01795 882141"
+      },
+      {
+        "name": "DMC SHEPPEY OPHTHALMOLOGY",
+        "addressLine1": "SHEPPEY COMMUNITY HOSP",
+        "addressLine2": "PLOVER RD,MINSTER-ON-SEA",
+        "city": "SHEERNESS",
+        "postcode": "ME12 3LT",
+        "phone": "01795 879199"
+      },
+      {
+        "name": "HMP FOREST BANK",
+        "addressLine1": "HMP FOREST BANK",
+        "addressLine2": "AGECROFT ROAD",
+        "city": "PENDLEBURY",
+        "postcode": "M27 8FB",
+        "phone": "0161 9257000"
+      },
+      {
+        "name": "TURNING POINT SMITHFIELD SERVICE",
+        "addressLine1": "SMITHFIELD SERVICE",
+        "addressLine2": "THOMPSON ST, COLLYHURST",
+        "city": "MANCHESTER",
+        "postcode": "M4 5FY",
+        "phone": "0161 8278570"
+      },
+      {
+        "name": "UNREGISTERED PATIENTS PRESCRIBING",
+        "addressLine1": "ST BARTHOLOMEW'S HOSPITAL",
+        "addressLine2": "NEW ROAD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 1DS",
+        "phone": "01634 810901"
+      },
+      {
+        "name": "CONTINENCE SERVICE PROJECT",
+        "addressLine1": "NEWTON HEATH HEALTH CTR",
+        "addressLine2": "2 OLD CHURCH STREET",
+        "city": "MANCHESTER",
+        "postcode": "M40 2JF",
+        "phone": "0161 6811964"
+      },
+      {
+        "name": "BROOK PENNINE",
+        "addressLine1": "3 DERBY ROAD",
+        "addressLine2": "",
+        "city": "SALFORD",
+        "postcode": "M5 5NZ",
+        "phone": "0161 6229848"
+      },
+      {
+        "name": "DMC COMMUNITY DERMATOLOGY CLINIC",
+        "addressLine1": "SHEPPEY COMMUNITY HOSP",
+        "addressLine2": "PLOVER ROAD",
+        "city": "MINSTER ON SEA, SHEERNESS",
+        "postcode": "ME12 3LT",
+        "phone": "01795 879199"
+      },
+      {
+        "name": "TRAFFORD HEALTH CENTRE WIC",
+        "addressLine1": "TRAFFORD GENERAL HOSPITAL",
+        "addressLine2": "MOORSIDE ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M41 5SL",
+        "phone": "0161 7474975"
+      },
+      {
+        "name": "WEST KENT RECOVERY SERVICE",
+        "addressLine1": "DIP OFFICE,3 FLR,GHL HSE",
+        "addressLine2": "12-14 ALBION WAY",
+        "city": "MAIDSTONE",
+        "postcode": "ME14 5DZ",
+        "phone": "01622 690864"
+      },
+      {
+        "name": "OPHTHALMOLOGY-APCOS-JG",
+        "addressLine1": "KENT EYE CARE",
+        "addressLine2": "786 LONDON RD, LARKFIELD",
+        "city": "AYLESFORD",
+        "postcode": "ME20 6BE",
+        "phone": "01732 873378"
+      },
+      {
+        "name": "OPHTHALMOLOGY-COT-JG",
+        "addressLine1": "KENT EYE CARE",
+        "addressLine2": "786 LONDON ROAD,LARKFIELD",
+        "city": "AYLESFORD",
+        "postcode": "ME20 6BE",
+        "phone": "01732 873378"
+      },
+      {
+        "name": "MIDAS",
+        "addressLine1": "536 - PHOENIX MILL",
+        "addressLine2": "20 PIERCY STREET, ANCOATS",
+        "city": "MANCHESTER",
+        "postcode": "M4 7HY",
+        "phone": "0845 2410460"
+      },
+      {
+        "name": "HMP EAST SUTTON PARK",
+        "addressLine1": "HMP EAST SUTTON PARK",
+        "addressLine2": "SUTTON VALENCE",
+        "city": "MAIDSTONE",
+        "postcode": "ME17 3DF",
+        "phone": "01622 845065"
+      },
+      {
+        "name": "HMP MAIDSTONE",
+        "addressLine1": "HMP MAIDSTONE",
+        "addressLine2": "36 COUNTY ROAD",
+        "city": "MAIDSTONE",
+        "postcode": "ME14 1UZ",
+        "phone": "01622 775403"
+      },
+      {
+        "name": "HMP ROCHESTER",
+        "addressLine1": "HMP ROCHESTER",
+        "addressLine2": "1 FORT ROAD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 3QS",
+        "phone": "01634 803051"
+      },
+      {
+        "name": "ICDS",
+        "addressLine1": "NTH BEDS DIABETES CTR",
+        "addressLine2": "KEMPSTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 9DJ",
+        "phone": "01234 792013"
+      },
+      {
+        "name": "BLADDER AND BOWEL SERVICE",
+        "addressLine1": "7TH FLOOR SENTINEL HOUSE",
+        "addressLine2": "ALBERT STREET, ECCLES",
+        "city": "SALFORD",
+        "postcode": "M30 0NJ",
+        "phone": "0161 2125579"
+      },
+      {
+        "name": "DMC SHEPPEY-W.I. CLINIC",
+        "addressLine1": "PLOVER ROAD",
+        "addressLine2": "",
+        "city": "SHEERNESS",
+        "postcode": "ME12 3LT",
+        "phone": "01795 879199"
+      },
+      {
+        "name": "GYNAECOLOGY OUTREACH SERVICE",
+        "addressLine1": "BEDFORD HOSPITAL",
+        "addressLine2": "KEMPSTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 9DJ",
+        "phone": "01234 792007"
+      },
+      {
+        "name": "OPHTHALMOLOGY-COT-NOK",
+        "addressLine1": "NIALL O'KANE OPTOMETRISTS",
+        "addressLine2": "78-80 HIGH STREET",
+        "city": "STROOD",
+        "postcode": "ME2 4AR",
+        "phone": "01634 290178"
+      },
+      {
+        "name": "OPHTHALMOLOGY-APCOS-NOK",
+        "addressLine1": "NIALL O'KANE OPTOMETRISTS",
+        "addressLine2": "78-80 HIGH STREET",
+        "city": "STROOD",
+        "postcode": "ME2 4AR",
+        "phone": "01634 290178"
+      },
+      {
+        "name": "HMP WOODHILL",
+        "addressLine1": "HMP WOODHILL",
+        "addressLine2": "TATTENHOE ST, WOODHILL",
+        "city": "MILTON KEYNES",
+        "postcode": "MK4 4DA",
+        "phone": "01908 722000"
+      },
+      {
+        "name": "SALFORD COMMUNITY HEALTH",
+        "addressLine1": "SANDRINGHAM HOUSE",
+        "addressLine2": "WINDSOR STREET",
+        "city": "SALFORD",
+        "postcode": "M5 4DG",
+        "phone": "0161 2124396"
+      },
+      {
+        "name": "MCH PRESCRIBING",
+        "addressLine1": "UNIT 7/8 AMBLEY GREEN",
+        "addressLine2": "BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0NU",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "TURNING POINT SHEERNESS",
+        "addressLine1": "THE VINES",
+        "addressLine2": "2 TRINITY ROAD",
+        "city": "SHEERNESS",
+        "postcode": "ME12 2PJ",
+        "phone": "0300 1231186"
+      },
+      {
+        "name": "TURNING POINT SITTINGBOURNE",
+        "addressLine1": "6-8 PARK ROAD",
+        "addressLine2": "",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 1DR",
+        "phone": "0300 1231186"
+      },
+      {
+        "name": "PENNINE CARE FOUNDATION TRUST",
+        "addressLine1": "MEADWAY HEALTH CENTRE",
+        "addressLine2": "MEADWAY",
+        "city": "SALE",
+        "postcode": "M33 4PS",
+        "phone": "0161 9754716"
+      },
+      {
+        "name": "PAHNT COMMUNITY SERVICES",
+        "addressLine1": "CHEETHAM PRIMARY CARE CTR",
+        "addressLine2": "244 CHEETHAM HILL ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M8 8UP",
+        "phone": "0161 2028781"
+      },
+      {
+        "name": "CMFT CHILDRENS COMMUNITY SERVICES",
+        "addressLine1": "WYTHENSHAWE OFFICES",
+        "addressLine2": "STANCLIFFE ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M22 4PJ",
+        "phone": "0161 9469404"
+      },
+      {
+        "name": "CMFT ADULT COMMUNITY SERVICES",
+        "addressLine1": "LEVENSHULME HEALTH CENTRE",
+        "addressLine2": "DUNSTABLE STREET",
+        "city": "MANCHESTER",
+        "postcode": "M19 3BX",
+        "phone": "0161 8612327"
+      },
+      {
+        "name": "UHSM COMMUNITY SERVICES",
+        "addressLine1": "WYTHENSHAWE OFFICES",
+        "addressLine2": "STANCLIFFE ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M22 4PJ",
+        "phone": "0161 9469425"
+      },
+      {
+        "name": "MKCCG PHYSICIAN",
+        "addressLine1": "SHERWOOD PLACE",
+        "addressLine2": "SHERWOOD DRIVE,BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK3 6RT",
+        "phone": "01908 278744"
+      },
+      {
+        "name": "MK EYE CLINIC (ICOS)",
+        "addressLine1": "WOLVERTON HEALTH CENTRE",
+        "addressLine2": "GLOUCESTER ROAD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK12 5DF",
+        "phone": "07979 194546"
+      },
+      {
+        "name": "WILL ADAMS NHS TREATMENT CENTRE",
+        "addressLine1": "BEECHINGS WAY",
+        "addressLine2": "",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 6AD",
+        "phone": "01634 236645"
+      },
+      {
+        "name": "WELL'S SURGERY",
+        "addressLine1": "VENICE ROAD",
+        "addressLine2": "",
+        "city": "MANCHESTER",
+        "postcode": 123,
+        "phone": "0123401203"
+      },
+      {
+        "name": "ST BARTHOLOMEWS HOSP (PC)",
+        "addressLine1": "NEW ROAD",
+        "addressLine2": "",
+        "city": "ROCHESTER",
+        "postcode": "ME1 1DS",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "ST BARTHOLOMEWS HOSPITAL",
+        "addressLine1": "NEW ROAD",
+        "addressLine2": "",
+        "city": "ROCHESTER",
+        "postcode": "ME1 1DS",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "INTERMEDIATE CARE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 334635"
+      },
+      {
+        "name": "BRITANNIA SUITE",
+        "addressLine1": "AMHERST COURT",
+        "addressLine2": "PALMERSTONE ROAD",
+        "city": "CHATHAM",
+        "postcode": "ME4 6LU",
+        "phone": "01634 835976"
+      },
+      {
+        "name": "ENDEAVOUR SUITE",
+        "addressLine1": "AMHERST COURT",
+        "addressLine2": "PALMERSTONE ROAD",
+        "city": "CHATHAM",
+        "postcode": "ME4 6LU",
+        "phone": "01634 400009"
+      },
+      {
+        "name": "SOUTH NEIGHBOURHOOD TEAM",
+        "addressLine1": "WYTH MANAGEMENT UNIT",
+        "addressLine2": "STANCLIFFE RD,WYTHENSHAWE",
+        "city": "MANCHESTER",
+        "postcode": "M22 4PJ",
+        "phone": "0161 9469400"
+      },
+      {
+        "name": "COMMUNITY ENT CLINIC",
+        "addressLine1": "OLIVER STREET SURGERY",
+        "addressLine2": "57 OLIVER STREET",
+        "city": "AMPTHILL",
+        "postcode": "MK45 2SB",
+        "phone": "01234 897440"
+      },
+      {
+        "name": "SEPT CHSB CARDIOLOGY NURSING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB COMMUNITY NURSING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB HEALTH VISITORS",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB MATRONS",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB MACMILLAN NURSING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB NEUROLOGY NURSING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB PAED COMM NURSING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB PODIATRIC SURGEONS",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB PODIATRISTS",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB SAFEGUARDING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB SCHOOL NURSING",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB TB NURSE",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "SEPT CHSB TISSUE NURSES",
+        "addressLine1": "2 RAILTON ROAD",
+        "addressLine2": "WOBURN ROAD IND ESTATE",
+        "city": "BEDFORD",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "COMMUNITY OPHTHALMOLOGY SERVICE",
+        "addressLine1": "WALKDEN GATEWAY",
+        "addressLine2": "2 SMITH STREET, WALKDEN",
+        "city": "SALFORD",
+        "postcode": "M28 3EZ",
+        "phone": "0161 2590595"
+      },
+      {
+        "name": "NHS SWALE CLINICAL COMMISSIONING GROUP",
+        "addressLine1": "BRAMBLEFIELD CLINIC",
+        "addressLine2": "GROVEHURST ROAD",
+        "city": "KEMSLEY",
+        "postcode": "ME10 2ST",
+        "phone": "03000 425100"
+      },
+      {
+        "name": "CRISIS RESPONSE TEAM",
+        "addressLine1": "CHARLESTOWN HEALTH CENTRE",
+        "addressLine2": "CHARLESTOWN ROAD,BLACKLEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 7ED",
+        "phone": "0161 7412004"
+      },
+      {
+        "name": "CNWL-MK MEDICAL PRESCRIBER",
+        "addressLine1": "HOSPITAL CAMPUS",
+        "addressLine2": "STANDING WAY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 5NG",
+        "phone": "01908 243933"
+      },
+      {
+        "name": "BCCG PHARMACIST PRESCRIBER",
+        "addressLine1": "CAPABILITY HOUSE",
+        "addressLine2": "WREST PARK",
+        "city": "SILSOE",
+        "postcode": "MK45 4HR",
+        "phone": "01525 864430"
+      },
+      {
+        "name": "CCG INDEPENDENT PRESCRIBING PHARMACISTS",
+        "addressLine1": "7TH FLOOR, ST JAMES HOUSE",
+        "addressLine2": "PENDELTON WAY",
+        "city": "SALFORD",
+        "postcode": "M6 5FW",
+        "phone": "0161 2114245"
+      },
+      {
+        "name": "PRIMARY CARE MANCHESTER LIMITED",
+        "addressLine1": "1ST FLOOR, 167 SLADE LANE",
+        "addressLine2": "LEVENSHULME",
+        "city": "MANCHESTER",
+        "postcode": "M19 2AF",
+        "phone": "0161 2249649"
+      },
+      {
+        "name": "WEST KENT URGENT CARE HOME TREATMENT",
+        "addressLine1": "COXHEATH HEALTH CENTRE",
+        "addressLine2": "HEATH ROAD, COXHEATH",
+        "city": "MAIDSTONE",
+        "postcode": "ME17 4AH",
+        "phone": "07887 550602"
+      },
+      {
+        "name": "COMMUNITY GERIATRICIANS",
+        "addressLine1": "1ST FLOOR,CROSSGATE HOUSE",
+        "addressLine2": "CROSS STREET",
+        "city": "SALE",
+        "postcode": "M33 7FT",
+        "phone": "0161 8739500"
+      },
+      {
+        "name": "ORTHOPTIC DEPARTMENT",
+        "addressLine1": "SANDRINGHAM HOUSE",
+        "addressLine2": "CASTLE COURT WINDSOR ST",
+        "city": "SALFORD",
+        "postcode": "M5 4DG",
+        "phone": "0161 2124128"
+      },
+      {
+        "name": "INTERMEDIATE CARE (THE PEELE)",
+        "addressLine1": "15A WALNEY ROAD",
+        "addressLine2": "BENCHILL",
+        "city": "WYTHENSHAWE",
+        "postcode": "M22 9TP",
+        "phone": "0161 4354703"
+      },
+      {
+        "name": "SEPT CHSB PAEDIATRICIANS",
+        "addressLine1": "CHILDREN'S SERVICES",
+        "addressLine2": "UNION STREET CLINIC",
+        "city": "BEDFORD",
+        "postcode": "MK40 2SF",
+        "phone": "01234 310073"
+      },
+      {
+        "name": "SMGPF",
+        "addressLine1": "BORCHARDT MEDICAL CENTRE",
+        "addressLine2": "62 WHITCHURCH ROAD",
+        "city": "FALLOWFIELD",
+        "postcode": "M20 1EB",
+        "phone": "0161 4382821"
+      },
+      {
+        "name": "MCH PALLIATIVE CARE SWALE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "MCH CARDIOLOGY SWALE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "MCH RESPIRATORY SWALE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "MCH STROKE SWALE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "MCH TISSUE VIABILITY SWALE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "MEDWAY SECURE TRAINING CENTRE",
+        "addressLine1": "SIR EVELYN ROAD",
+        "addressLine2": "",
+        "city": "ROCHESTER",
+        "postcode": "ME1 3YB",
+        "phone": "01634 842691"
+      },
+      {
+        "name": "MK SUBSTANCE MISUSE SERVICE",
+        "addressLine1": "CRIPPS LODGE",
+        "addressLine2": "NETHERFIELD",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 4JJ",
+        "phone": "01908 250733"
+      },
+      {
+        "name": "PCOC DERMATOLOGY SERVICE",
+        "addressLine1": "STONY MEDICAL CENTRE",
+        "addressLine2": "MARKET SQUARE,STONY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK11 1YA",
+        "phone": "01908 260382"
+      },
+      {
+        "name": "TURNING POINT MEDWAY",
+        "addressLine1": "55 GREEN STREET",
+        "addressLine2": "GILLINGHAM",
+        "city": "",
+        "postcode": "ME7 1AE",
+        "phone": "0300 1231560"
+      },
+      {
+        "name": "PCOC GYNAECOLOGY SERVICE",
+        "addressLine1": "STONY MEDICAL CENTRE",
+        "addressLine2": "MARKET SQUARE, STONY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK11 1YA",
+        "phone": "01908 260382"
+      },
+      {
+        "name": "PCOC RESPIRATORY SERVICE",
+        "addressLine1": "WATLING VALE MED CENTRE",
+        "addressLine2": "SHENLEY CHURCH END",
+        "city": "MILTON KEYNES",
+        "postcode": "MK5 6EY",
+        "phone": "01908 504913"
+      },
+      {
+        "name": "PCOC GASTROENTEROLOGY SERVICE",
+        "addressLine1": "HILLTOPS MEDICAL CENTRE",
+        "addressLine2": "KENSINGTON DVE,GREAT HOLM",
+        "city": "MILTON KEYNES",
+        "postcode": "MK8 9HN",
+        "phone": "01908 568446"
+      },
+      {
+        "name": "PCOC UROLOGY SERVICE",
+        "addressLine1": "NEWPORT PAGNELL MEDICAL C",
+        "addressLine2": "QUEENS AVENUE",
+        "city": "MILTON KEYNES",
+        "postcode": "MK16 8QT",
+        "phone": "01908 611767"
+      },
+      {
+        "name": "BEACON MEDICAL SERVICES LIMITED",
+        "addressLine1": "PARKWAY HOUSE, 1ST FLOOR",
+        "addressLine2": "SUITE A, PALATINE ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M22 4DB",
+        "phone": "0161 4457451"
+      },
+      {
+        "name": "MCH PHYSIO SWALE",
+        "addressLine1": "MCH HOUSE",
+        "addressLine2": "21 BAILEY DRIVE",
+        "city": "GILLINGHAM",
+        "postcode": "ME8 0PZ",
+        "phone": "01634 382777"
+      },
+      {
+        "name": "PCOC DVT SERVICE",
+        "addressLine1": "WHADDON MEDICAL CENTRE",
+        "addressLine2": "25 WITHAM COURT,BLETCHLEY",
+        "city": "MILTON KEYNES",
+        "postcode": "MK3 7QU",
+        "phone": "01908 373058"
+      },
+      {
+        "name": "HMP/YOI COOKHAM WOOD",
+        "addressLine1": "HMP/YOI COOKHAM WOOD",
+        "addressLine2": "SIR EVELYN ROAD",
+        "city": "ROCHESTER",
+        "postcode": "ME1 3LU",
+        "phone": "01634 202668"
+      },
+      {
+        "name": "HMP YARL'S WOOD IRC",
+        "addressLine1": "TWINWOODS BUSINESS PARK",
+        "addressLine2": "THURLEIGH ROAD",
+        "city": "MILTON ERNEST, BEDFORD",
+        "postcode": "MK44 1FD",
+        "phone": "01234 821999"
+      },
+      {
+        "name": "HOPE CITADEL WIC",
+        "addressLine1": "UNIT F1",
+        "addressLine2": "MIDDLETON SHOPPING CENTRE",
+        "city": "MIDDLETON",
+        "postcode": "M24 4EL",
+        "phone": "0161 6557434"
+      },
+      {
+        "name": "MK ENT SERVICE",
+        "addressLine1": "HILLTOPS MEDICAL CENTRE",
+        "addressLine2": "KENSINGTON DR, GREAT HOLM",
+        "city": "MILTON KEYNES",
+        "postcode": "MK8 9HN",
+        "phone": "01908 568446"
+      },
+      {
+        "name": "NORTHERN HEALTH HUB 1",
+        "addressLine1": "CHEETHAM HILL PCC",
+        "addressLine2": "CHEETHAM HILL ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M8 8UP",
+        "phone": "0161 2776950"
+      },
+      {
+        "name": "HMP BEDFORD",
+        "addressLine1": "HMP BEDFORD",
+        "addressLine2": "ST LOYES STREET",
+        "city": "BEDFORD",
+        "postcode": "MK40 1HG",
+        "phone": "01234 373143"
+      },
+      {
+        "name": "BARTON MOSS SECURE CHILDREN'S HOME",
+        "addressLine1": "BARTON MOSS ROAD",
+        "addressLine2": "ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 7RL",
+        "phone": "01942 663140"
+      },
+      {
+        "name": "CONTINENCE PRESCRIBING SERVICE",
+        "addressLine1": "WYTHENSHAWE OFFICES",
+        "addressLine2": "1 STANCLIFFE ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M22 4PJ",
+        "phone": "0161 9469426"
+      },
+      {
+        "name": "NORTHERN HEALTH GPPO HUB 3",
+        "addressLine1": "WHITLEY RD MEDICAL CENTRE",
+        "addressLine2": "1 WHITLEY ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M40 7QH",
+        "phone": "0161 7402213"
+      },
+      {
+        "name": "NORTHERN HEALTH GPPO HUB 2",
+        "addressLine1": "CONRAN MEDICAL CENTRE",
+        "addressLine2": "77 CHURCH LANE,HARPURHEY",
+        "city": "MANCHESTER",
+        "postcode": "M9 5BH",
+        "phone": "0161 6881881"
+      },
+      {
+        "name": "NORTHERN HEALTH GPPO HUB 4",
+        "addressLine1": "FIVE OAKS FAMILY PRACTICE",
+        "addressLine2": "47 GRAHAM STREET, BESWICK",
+        "city": "MANCHESTER",
+        "postcode": "M11 3BB",
+        "phone": "0161 2234211"
+      },
+      {
+        "name": "PMCF PRIMARY CARE EXTENDED ACCESS SITE 1",
+        "addressLine1": "POPLAR STREET",
+        "addressLine2": "TYLDESLEY",
+        "city": "MANCHESTER",
+        "postcode": "M29 8AX",
+        "phone": "01942 482848"
+      },
+      {
+        "name": "EYE 2 EYE OPTICIANS",
+        "addressLine1": "UNIT 8 MID KENT SHOPPING",
+        "addressLine2": "CASTLE ROAD, ALLINGTON",
+        "city": "MAIDSTONE",
+        "postcode": "ME16 0PU",
+        "phone": "01622 672563"
+      },
+      {
+        "name": "FAVERSHAM MEDICAL PRACTICE MIU",
+        "addressLine1": "FAVERSHAM HEALTH CENTRE",
+        "addressLine2": "BANK STREET",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 8QR",
+        "phone": "01795 562005"
+      },
+      {
+        "name": "NORTHERN HEALTH GPPO A & E HUB",
+        "addressLine1": "NORTH MANCHESTER GENERAL",
+        "addressLine2": "DELAUNAYS ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M8 5RB",
+        "phone": "0161 7954567"
+      },
+      {
+        "name": "MK CHILDREN'S PRIMARY CARE TEAM",
+        "addressLine1": "MKUCS HOSPITAL CAMPUS",
+        "addressLine2": "FLEMING DR, EAGLESTONE",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 5NG",
+        "phone": "01908 303030"
+      },
+      {
+        "name": "MK HEALTH EXTRA",
+        "addressLine1": "MKUCS HOSPITAL CAMPUS",
+        "addressLine2": "FLEMING DRIVE, EAGLESTONE",
+        "city": "MILTON KEYNES",
+        "postcode": "MK6 5NG",
+        "phone": "01908 303030"
+      },
+      {
+        "name": "VANGUARD FAVERSHAM INVICTA",
+        "addressLine1": "NEWTON PLACE SURGERY",
+        "addressLine2": "NEWTON ROAD",
+        "city": "FAVERSHAM",
+        "postcode": "ME13 8FH",
+        "phone": "0800 2425199"
+      },
+      {
+        "name": "SALFORD PRIMARY CARE TOGETHER",
+        "addressLine1": "3RD FLOOR,ORBIT HOUSE",
+        "addressLine2": "ECCLES",
+        "city": "MANCHESTER",
+        "postcode": "M30 0BG",
+        "phone": "0161 2124231"
+      },
+      {
+        "name": "7 DAY ACCESS MIDDLETON HC",
+        "addressLine1": "MIDDLETON HC,UNIT 1",
+        "addressLine2": "MIDDLETON SHOPPING CENTRE",
+        "city": "MIDDLETON",
+        "postcode": "M24 2EL",
+        "phone": "0161 7638292"
+      },
+      {
+        "name": "HOME IV THERAPY TEAM",
+        "addressLine1": "RM 32, 1ST FLOOR, J BLOCK",
+        "addressLine2": "NORTH MANCHESTER GEN HOSP",
+        "city": "MANCHESTER",
+        "postcode": "M8 5RB",
+        "phone": "0161 7202788"
+      },
+      {
+        "name": "WILLEN HOSPICE",
+        "addressLine1": "MILTON ROAD",
+        "addressLine2": "WILLEN VILLAGE",
+        "city": "MILTON KEYNES",
+        "postcode": "MK15 9AB",
+        "phone": "01908 663636"
+      },
+      {
+        "name": "PAT HMR COMMUNITY SERVICE",
+        "addressLine1": "N.M.G.H",
+        "addressLine2": "DELAUNAYS ROAD, CRUMPSALL",
+        "city": "MANCHESTER",
+        "postcode": "M8 5RB",
+        "phone": "0161 9184736"
+      },
+      {
+        "name": "SHINE AT SALFORD SEXUAL HEALTH SERVICES",
+        "addressLine1": "GOODMAN CENTRE",
+        "addressLine2": "CHURCHILL WAY",
+        "city": "SALFORD",
+        "postcode": "M6 5QX",
+        "phone": "0161 2061099"
+      },
+      {
+        "name": "HMP MANCHESTER (HIGH SECURITY)",
+        "addressLine1": "SOUTHALL STREET",
+        "addressLine2": "",
+        "city": "MANCHESTER",
+        "postcode": "M60 9AH",
+        "phone": "0161 8175600"
+      },
+      {
+        "name": "OLDHAM 7 DAY ACCESS HUB3 OOH",
+        "addressLine1": "FAILSWORTH HEALTH CENTRE",
+        "addressLine2": "ASHTON RD WEST,FAILSWORTH",
+        "city": "MANCHESTER",
+        "postcode": "M35 0AD",
+        "phone": "0161 6811401"
+      },
+      {
+        "name": "NL COMMUNITY RESPIRATORY SERVICE",
+        "addressLine1": "BOC RESPIRATORY SERVICES",
+        "addressLine2": "PRIESTLEY ROAD",
+        "city": "WORSLEY",
+        "postcode": "M28 2UT",
+        "phone": "0800 0121858"
+      },
+      {
+        "name": "WL CCG MSK SERVICE",
+        "addressLine1": "SUITE9&17,20 CHURCHILL SQ",
+        "addressLine2": "KINGS HILL",
+        "city": "WEST MALLING",
+        "postcode": "ME19 4YU",
+        "phone": "01732 525936"
+      },
+      {
+        "name": "BEALEY COMMUNITY HOSPITAL",
+        "addressLine1": "DUMERS LANE",
+        "addressLine2": "RADCLIFFE",
+        "city": "MANCHESTER",
+        "postcode": "M26 2QD",
+        "phone": "0161 7232371"
+      },
+      {
+        "name": "KIMS HOSPITAL",
+        "addressLine1": "NEWNHAM COURT WAY",
+        "addressLine2": "WEAVERING",
+        "city": "MAIDSTONE",
+        "postcode": "ME14 5FT",
+        "phone": "01622 237500"
+      },
+      {
+        "name": "BEDS & LUTON IUC SERVICE OOH",
+        "addressLine1": "GILBERT HITCHCOCK HOUSE",
+        "addressLine2": "KIMBOLTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2NU",
+        "phone": "0844 5606606"
+      },
+      {
+        "name": "MCH PENTAGON",
+        "addressLine1": "BOOTS, 30-34 WILMOT SQ",
+        "addressLine2": "PENTAGON CENTRE",
+        "city": "CHATHAM",
+        "postcode": "ME4 4BB",
+        "phone": "01634 335150"
+      },
+      {
+        "name": "BEDS & LUTON IUC SERVICE OOH",
+        "addressLine1": "GILBERT HITCHCOCK HOUSE",
+        "addressLine2": "KIMBOLTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK40 2NU",
+        "phone": "0844 5606606"
+      },
+      {
+        "name": "TABA+ PROJECT",
+        "addressLine1": "ATHERTON HEALTH CENTRE",
+        "addressLine2": "NELSON STREET",
+        "city": "ATHERTON",
+        "postcode": "M46 0LE",
+        "phone": "01942 481681"
+      },
+      {
+        "name": "PALLIATIVE CARE SERVICE",
+        "addressLine1": "ST ANN'S HOSPICE",
+        "addressLine2": "MEADOWSWEET LANE",
+        "city": "LITTLE HULTON",
+        "postcode": "M28 0FE",
+        "phone": "0161 7028181"
+      },
+      {
+        "name": "FRANCIS HOUSE HOSPICE",
+        "addressLine1": "390 PARRSWOOD ROAD",
+        "addressLine2": "DIDSBURY",
+        "city": "MANCHESTER",
+        "postcode": "M20 5NA",
+        "phone": "0161 4432200"
+      },
+      {
+        "name": "COMMUNITY ENT SERVICE",
+        "addressLine1": "PARKWAY HOUSE",
+        "addressLine2": "PALATINE ROAD",
+        "city": "MANCHESTER",
+        "postcode": "M22 4DB",
+        "phone": "0161 4457451"
+      },
+      {
+        "name": "HMP OAKHILL STC",
+        "addressLine1": "HMP OAKHILL STC",
+        "addressLine2": "CHALFORD FIELD,OAKHILL",
+        "city": "MILTON KEYNES",
+        "postcode": "MK5 6AJ",
+        "phone": "01908 866000"
+      },
+      {
+        "name": "CMFT CONTINENCE PRESCRIBING SERVICE",
+        "addressLine1": "CMFT, LEVENSULME H/C",
+        "addressLine2": "DUNSTABLE STREET",
+        "city": "MANCHESTER",
+        "postcode": "M19 3BX",
+        "phone": "0161 8612327"
+      },
+      {
+        "name": "EPUT PODIATRISTS",
+        "addressLine1": "WOBURN COURT",
+        "addressLine2": "2 RAILTON ROAD",
+        "city": "KEMPSTON",
+        "postcode": "MK42 7PN",
+        "phone": "01234 317146"
+      },
+      {
+        "name": "CAULDWELL MEDICAL CENTRE - UPCS",
+        "addressLine1": "BEDFORD HOSPITAL",
+        "addressLine2": "KEMPSTON ROAD",
+        "city": "BEDFORD",
+        "postcode": "MK42 9DJ",
+        "phone": "01234 673710"
+      },
+      {
+        "name": "SALFORD ACUTE HOME VISITING SERVICE",
+        "addressLine1": "SALFORD PCT",
+        "addressLine2": "2 CITY APPROACH,ALBERT ST",
+        "city": "ECCLES",
+        "postcode": "M30 0BL",
+        "phone": "0161 2124231"
+      },
+      {
+        "name": "EMERGENCY DEPT PRIMARY CARE STREAMING",
+        "addressLine1": "SALFORD PCT",
+        "addressLine2": "2 CITY APPROACH,ALBERT ST",
+        "city": "ECCLES",
+        "postcode": "M30 0BL",
+        "phone": "0161 2124231"
+      },
+      {
+        "name": "BMI THE MANOR HOSPITAL",
+        "addressLine1": "CHURCH END",
+        "addressLine2": "BIDDENHAM",
+        "city": "BEDFORD",
+        "postcode": "MK40 4AW",
+        "phone": "01234 364252"
+      },
+      {
+        "name": "NORTHERN HEALTH GPPO - JOLLY HIPC",
+        "addressLine1": "74 CRESCENT ROAD",
+        "addressLine2": "",
+        "city": "MANCHESTER",
+        "postcode": "M8 9NT",
+        "phone": "0161 7409864"
+      },
+      {
+        "name": "DGSS INPATIENT SERVICES - SHEPPEY",
+        "addressLine1": "SHEPPEY HOSPITAL",
+        "addressLine2": "PLOVER ROAD",
+        "city": "MINSTER ON SEA",
+        "postcode": "ME12 3LT",
+        "phone": "01795 879100"
+      },
+      {
+        "name": "DGSS INPATIENT SERVICES - SITTINGBOURNE",
+        "addressLine1": "SITTINGBOURNE HOSPITAL",
+        "addressLine2": "BELL ROAD",
+        "city": "SITTINGBOURNE",
+        "postcode": "ME10 4DT",
+        "phone": "01795 418300"
+      }
+    ]
+  }
+
