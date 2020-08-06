@@ -55,7 +55,6 @@ func returnAllPharmacies(w http.ResponseWriter, r *http.Request) {
 	// }
 
 	json.NewEncoder(w).Encode(pharmacies)
-
 	w.WriteHeader(http.StatusOK)
 }
 
