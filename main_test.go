@@ -79,36 +79,3 @@ func TestReturnAllPharmaciesOnlyContainsManchesterPharmacies(t *testing.T) {
 		}
 	}
 }
-
-func contains(postcode string) bool {
-
-	postcodes := []string{
-		"M46",
-		"M29",
-		"M28",
-		"Mao",
-		"M26",
-		"M45",
-		"M25",
-		"M27",
-		"M44",
-		"M31",
-		"M24",
-		"M40",
-		"M35",
-		"M18",
-		"M34",
-		"M33",
-		"M21",
-		"M20",
-		"M23",
-		"M22",
-	}
-
-	for _, p := range postcodes {
-		if p == postcode {
-			return true
-		}
-	}
-	return false
-}

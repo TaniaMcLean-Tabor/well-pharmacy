@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 )
 
 type Pharmacies struct {
@@ -45,18 +46,82 @@ func returnAllPharmacies(w http.ResponseWriter, r *http.Request) {
 
 	json.Unmarshal(byteValue, &pharmacies)
 
-	// for i := 0; i < len(pharmacies.Pharmacies); i++ {
-	// 	fmt.Println("Name: " + pharmacies.Pharmacies[i].Name)
-	// 	fmt.Println("AddressLine1: " + pharmacies.Pharmacies[i].AddressLine1)
-	// 	fmt.Println("AddressLine2: " + pharmacies.Pharmacies[i].AddressLine2)
-	// 	fmt.Println("City: " + pharmacies.Pharmacies[i].City)
-	// 	fmt.Println("Postcode: " + pharmacies.Pharmacies[i].Postcode)
-	// 	fmt.Println("Phone: " + pharmacies.Pharmacies[i].Phone)
-	// }
+	for _, pharm := range pharmacies.Pharmacies {
+		for i := 0; i < len(pharmacies.Pharmacies); i++ {
+			if contains(pharm.Postcode) == false {
+				pharmacies.Pharmacies = append(pharmacies.Pharmacies[:i], pharmacies.Pharmacies[i+1:]...)
+			}
+		}
+	}
 
 	json.NewEncoder(w).Encode(pharmacies)
 	w.WriteHeader(http.StatusOK)
 }
+
+func contains(postcode string) bool {
+
+	postcodes := []string{
+
+		"M26",
+		"M24",
+		"M45",
+		"M38",
+		"M25",
+		"M46",
+		"M9",
+		"M27",
+		"M29",
+		"M28",
+		"M8",
+		"M7",
+		"M6",
+		"M35",
+		"M40",
+		"M3",
+		"M43",
+		"M30",
+		"M50",
+		"M5",
+		"M1",
+		"M11",
+		"M17",
+		"M15",
+		"M18",
+		"M34",
+		"M32",
+		"M21",
+		"M34",
+		"M44",
+		"M41",
+		"M31",
+		"M33",
+		"M20",
+		"M23",
+		"M22",
+		"M90",
+		"M2",
+	}
+
+	postCodePrefix := postcode[:strings.IndexByte(postcode, ' ')]
+
+	for _, p := range postcodes {
+		if p == postCodePrefix {
+			return true
+		}
+	}
+	return false
+}
+
+// func getPostCodesFromImage() []string {
+
+// 	client := gosseract.NewClient()
+// 	defer client.Close()
+// 	client.SetLanguage("eng")
+// 	client.SetImage("gm_g.png")
+// 	text, _ := client.Text()
+// 	fmt.Println(text)
+// 	return strings.Split(text, "")
+// }
 
 func handleRequests() {
 	http.HandleFunc("/", homePage)
